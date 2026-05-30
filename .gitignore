@@ -1,3 +1,14 @@
 .claude/
 .playwright-mcp/
 *.png
+
+# intermediate pipeline chunks (regeneratable)
+chunk_*.json
+classified_*.json
+owners_chunk_*.json
+vets_*.json
+owners.json
+
+# pipeline scripts (keep for reproducibility, but generated data stays local)
+# data files committed: candidates.json, kept.json, veterans_summary.json,
+#                       devpost_raw.json, devpost_summary.json, data_output.json

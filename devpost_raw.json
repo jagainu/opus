@@ -1,0 +1,4326 @@
+[
+  {
+    "name": "Vox",
+    "tagline": "An AI COO Agent that handles all your operations for your Shopify ecom brand",
+    "url": "https://devpost.com/software/vox-yj4qga",
+    "slug": "vox-yj4qga",
+    "members": [
+      "summit-rinmo"
+    ],
+    "tags": [
+      "elevenlabs",
+      "groq",
+      "claude",
+      "cursor"
+    ],
+    "winner": false,
+    "like_count": 0,
+    "_query": "claude opus 4.6"
+  },
+  {
+    "name": "ALUHUB",
+    "tagline": "Find internships in 2 minutes, not 15. AI tells you if you fit.",
+    "url": "https://devpost.com/software/aluhub",
+    "slug": "aluhub",
+    "members": [
+      "j-horugavye",
+      "h-maniragab"
+    ],
+    "tags": [
+      "deployment-ci/cd-via-github-actions-(android-apk-auto-build)-environment-variables-for-api-keys-(render-dashboard",
+      ".env-local)-summary-languages:-javascript",
+      "typescript",
+      "dart",
+      "sql",
+      "markdown-frameworks:-react",
+      "express.js",
+      "flutter",
+      "vite-platforms:-cloudflare",
+      "render",
+      "supabase",
+      "anthropic-claude-api-databases:-postgresql-(via-supabase)-key-libraries:-bcrypt",
+      "jwt",
+      "supabase-client",
+      "claude-sdk-cloud-services:-cloudflare-pages",
+      "supabse"
+    ],
+    "winner": false,
+    "like_count": 2,
+    "_query": "claude opus 4.6"
+  },
+  {
+    "name": "Argus",
+    "tagline": "HA web servers run on N machines. Why don't agents? Argus is a dual-cognition SRE agent that investigates incidents autonomously, survives infrastructure chaos, and learns from every case it closes.",
+    "url": "https://devpost.com/software/argus-475hkv",
+    "slug": "argus-475hkv",
+    "members": [
+      "aditya1rawat"
+    ],
+    "tags": [
+      "next.js-16",
+      "react-19",
+      "hono",
+      "truefoundry-ai-gateway",
+      "crusoe-cloud-managed-inference",
+      "nemotron",
+      "neo4j",
+      "graphiti",
+      "fastapi",
+      "typescript",
+      "tailwind-css",
+      "python",
+      "claude",
+      "nvidia-nim",
+      "docker",
+      "sentence-transformers",
+      "mcp",
+      "digitalocean",
+      "caddy",
+      "digitalocean-droplet",
+      "vercel"
+    ],
+    "winner": true,
+    "like_count": 4,
+    "_query": "claude opus 4.6"
+  },
+  {
+    "name": "Mergency",
+    "tagline": "5-pass DoRA fine-tune of Gemma 4 E4B that drives a live MapLibre canvas via structured tool calls — entirely on-device.",
+    "url": "https://devpost.com/software/mergency",
+    "slug": "mergency",
+    "members": [
+      "yimingbeckmann"
+    ],
+    "tags": [
+      "python",
+      "typescript",
+      "swift",
+      "bash",
+      "yaml",
+      "css",
+      "html",
+      "gemma",
+      "mlx",
+      "dora",
+      "claude",
+      "huggingface",
+      "pytorch",
+      "chatgpt",
+      "fastapi",
+      "uvicorn",
+      "pydantic",
+      "httpx",
+      "python-dotenv",
+      "next.js",
+      "react",
+      "tailwind",
+      "shadcn/ui+radix",
+      "lucide/tabler",
+      "framer-motion",
+      "maplibre",
+      "xyflow/react+dagre",
+      "react-markdown+remark-gfm",
+      "pdfjs-dist",
+      "flexsearch",
+      "idb-keyval",
+      "lottie",
+      "swiftui+appkit",
+      "swift-package",
+      "macos-sandbox+entitlements"
+    ],
+    "winner": false,
+    "like_count": 1,
+    "_query": "claude opus 4.6"
+  },
+  {
+    "name": "LeakHound",
+    "tagline": "Finds revenue leaks on ecommerce funnels for brands and competitors. It then publishes incident pages, creates draft fix PRs, alerts, and gates full evidence behind a USDC paywall requiring no signup.",
+    "url": "https://devpost.com/software/leakhound",
+    "slug": "leakhound",
+    "members": [
+      "ferocchi"
+    ],
+    "tags": [
+      "python",
+      "typescript",
+      "sql",
+      "clickhouse",
+      "langgraph",
+      "dspy",
+      "fastapi",
+      "hono",
+      "next.js",
+      "tailwind",
+      "pydantic",
+      "zod",
+      "anthropic",
+      "openai",
+      "perplexity",
+      "google",
+      "grok",
+      "vercel",
+      "fly.io",
+      "coinbase",
+      "x402",
+      "datadog",
+      "nimble",
+      "browserbase",
+      "langfuse",
+      "github",
+      "linear",
+      "opentelemetry",
+      "mcp",
+      "json-ld",
+      "satori",
+      "pnpm",
+      "tsx",
+      "vitest",
+      "pytest",
+      "ruff",
+      "uv"
+    ],
+    "winner": false,
+    "like_count": 0,
+    "_query": "claude opus 4.6"
+  },
+  {
+    "name": "Joule: Charge AI for its electricity bill",
+    "tagline": "Charge AI for its own electricity bill. An OpenAI-compatible carbon-aware gateway with auto model selection, real-time carbon tracking, and a natural-language Hermes agent on top.",
+    "url": "https://devpost.com/software/joule-charge-ai-for-its-electricity-bill",
+    "slug": "joule-charge-ai-for-its-electricity-bill",
+    "members": [
+      "jamietyravideo"
+    ],
+    "tags": [
+      "typescript",
+      "node.js",
+      "next.js",
+      "react",
+      "hono",
+      "better-sqlite3",
+      "recharts",
+      "undici",
+      "vitest",
+      "python",
+      "openai",
+      "crusoe",
+      "nemotron",
+      "sqlite",
+      "hackathon",
+      "ai-agent",
+      "llm"
+    ],
+    "winner": false,
+    "like_count": 0,
+    "_query": "claude opus 4.6"
+  },
+  {
+    "name": "Ops Narrator",
+    "tagline": "Splunk fires the alert. Our agent runs the investigation, connects the dots, and delivers a one-paragraph brief. You get the answer, not the data.",
+    "url": "https://devpost.com/software/ops-narrator",
+    "slug": "ops-narrator",
+    "members": [
+      "arezzio",
+      "edward994"
+    ],
+    "tags": [
+      "anthropic",
+      "claude",
+      "claude-opus-4.7",
+      "python",
+      "splunk",
+      "model-context-protocol",
+      "splunk-mcp-server",
+      "fastapi",
+      "uvicorn",
+      "mcp"
+    ],
+    "winner": false,
+    "like_count": 1,
+    "_query": "claude opus 4.6"
+  },
+  {
+    "name": "Multi-Step Forecasting Agent (Agentic Learning AI Lab @ NYU)",
+    "tagline": "A six-stage forecasting agent that decomposes each question into Fermi sub-questions, runs 12 research tools in parallel, and ensembles Opus 4.7 + GPT-5.5 forecasts.",
+    "url": "https://devpost.com/software/multi-step-forecasting-agent-agentic-learning-ai-lab-nyu",
+    "slug": "multi-step-forecasting-agent-agentic-learning-ai-lab-nyu",
+    "members": [
+      "wyw2010"
+    ],
+    "tags": [
+      "render",
+      "claude",
+      "python"
+    ],
+    "winner": false,
+    "like_count": 0,
+    "_query": "claude opus 4.6"
+  },
+  {
+    "name": "Concorde United",
+    "tagline": "Understanding is the antidote to polarization.",
+    "url": "https://devpost.com/software/concorde-united",
+    "slug": "concorde-united",
+    "members": [
+      "ethrouxe",
+      "praptorz"
+    ],
+    "tags": [
+      "typescript",
+      "html",
+      "css",
+      "react",
+      "tailwind",
+      "node.js",
+      "groq",
+      "news-api",
+      "github",
+      "axios",
+      "cheerio",
+      "youtube-transcript",
+      "groq-sdk"
+    ],
+    "winner": false,
+    "like_count": 2,
+    "_query": "claude opus 4.6"
+  },
+  {
+    "name": "Cross-Family LLM Forecasting with Dual Criteria Extraction",
+    "tagline": "Cross-family LLM (Sonnet, Haiku, Gemini, GPT-5, DeepSeek) with Opus 4.7 dual-analyst criteria extraction, Delphi consensus rounds, and a threshold-ladder safety stack — for Prophet Hacks 2026.",
+    "url": "https://devpost.com/software/cross-family-llm-forecasting-with-dual-criteria-extraction",
+    "slug": "cross-family-llm-forecasting-with-dual-criteria-extraction",
+    "members": [
+      "emil-partow"
+    ],
+    "tags": [
+      "python",
+      "fastapi",
+      "fly.io",
+      "polymarket",
+      "deepseek",
+      "claude",
+      "openai",
+      "manifold",
+      "odds",
+      "metaculus",
+      "coingecko"
+    ],
+    "winner": false,
+    "like_count": 0,
+    "_query": "claude opus 4.6"
+  },
+  {
+    "name": "chanjoongx Prophet Forecaster",
+    "tagline": "Multi-outcome forecasting agent: 4-way :online ensemble (Sonnet ×2, GPT-4o, Gemini) + hybrid residual-mass calibration + 3-tier provider fallback. Brier ~0.06 vs market consensus ~0.18.",
+    "url": "https://devpost.com/software/chanjoongx-prophet-forecaster",
+    "slug": "chanjoongx-prophet-forecaster",
+    "members": [
+      "chanjoongx"
+    ],
+    "tags": [
+      "python",
+      "fastapi",
+      "openrouter",
+      "anthropic",
+      "openai",
+      "claude",
+      "gpt-4o",
+      "gemini",
+      "render",
+      "docker"
+    ],
+    "winner": false,
+    "like_count": 0,
+    "_query": "claude opus 4.6"
+  },
+  {
+    "name": "VoCal",
+    "tagline": "VoCal is a health app that allows you to accurately track your diet with more context than a singular picture. It also uses your dietary data to give you informed recommendations for your goals.",
+    "url": "https://devpost.com/software/vocal-xbu7yf",
+    "slug": "vocal-xbu7yf",
+    "members": [
+      "arjuns9",
+      "peddirishab",
+      "rockychan1230",
+      "ericspencer00"
+    ],
+    "tags": [
+      "native-swift-app-store-connect-+-testflight",
+      "storekit-github-cloudflare-pages-+-workers",
+      "dns-anthropic-and-openai-models-eleven-labs-tts-wafer.ai",
+      "mistral",
+      "openrouter",
+      "gemini",
+      "groq",
+      "ai",
+      "inference",
+      "google",
+      "apple",
+      "auth",
+      "d1",
+      "r2",
+      "sqlite",
+      "storages",
+      "kv",
+      "caches",
+      "authenticated",
+      "rate-limited",
+      "api",
+      "flutter",
+      "dart",
+      "android",
+      "port",
+      "usda",
+      "nutrition",
+      "barcode",
+      "vitest",
+      "testing",
+      "suite",
+      "wrangler"
+    ],
+    "winner": false,
+    "like_count": 2,
+    "_query": "claude opus 4.6"
+  },
+  {
+    "name": "Deferred-Execution Attacks Against AI Control Monitors",
+    "tagline": "Catching AI sabotage that fires after the monitor stops watching.",
+    "url": "https://devpost.com/software/deferred-execution-attacks-against-ai-control-monitors",
+    "slug": "deferred-execution-attacks-against-ai-control-monitors",
+    "members": [
+      "guowilliam3"
+    ],
+    "tags": [
+      "python",
+      "docker",
+      "linux",
+      "anthropic"
+    ],
+    "winner": false,
+    "like_count": 0,
+    "_query": "claude opus 4.6"
+  },
+  {
+    "name": "Finding Nemo",
+    "tagline": "We discern the underlying ideologies of AI models by gathering their responses to scenarios that illustrate their stance and evaluating those responses relative to ideological figure heads.",
+    "url": "https://devpost.com/software/finding-nemo-ua0nxr",
+    "slug": "finding-nemo-ua0nxr",
+    "members": [
+      "jsherwood",
+      "matteo-mirgone",
+      "wwmuchi",
+      "valentinap"
+    ],
+    "tags": [
+      "platforms:-snowflake-for-data-storage",
+      "elevenlabs-for-audio-generation?-apis:-chatgpt",
+      "claude",
+      "grok",
+      "gemini",
+      "python",
+      "elevenlabs",
+      "snowflake"
+    ],
+    "winner": false,
+    "like_count": 3,
+    "_query": "claude opus 4.6"
+  },
+  {
+    "name": "Emberwatch",
+    "tagline": "AI Safety Research Project that measures context degradation and agentic alignment using frontier LLM models with tight probe inputs",
+    "url": "https://devpost.com/software/emberwatch",
+    "slug": "emberwatch",
+    "members": [
+      "shreyas22",
+      "dhanush-ramachandran",
+      "ted-cc6"
+    ],
+    "tags": [
+      "python",
+      "openai",
+      "grok",
+      "gemini",
+      "anthropic",
+      "streamlit",
+      "fastapi"
+    ],
+    "winner": false,
+    "like_count": 0,
+    "_query": "claude opus 4.6"
+  },
+  {
+    "name": "Crucible",
+    "tagline": "Companies waste billions on AI. Let's fix that.",
+    "url": "https://devpost.com/software/crucible-dzerkc",
+    "slug": "crucible-dzerkc",
+    "members": [
+      "jdiaz6",
+      "ulisesdiazflores50",
+      "james525"
+    ],
+    "tags": [
+      "https://github.com/josuediazflores/crucible"
+    ],
+    "winner": false,
+    "like_count": 0,
+    "_query": "claude opus 4.6"
+  },
+  {
+    "name": "Statelens",
+    "tagline": "The model-agnostic observation compression layer for UI agents. Turns screenshot streams into compact state events — 40-50% cheaper, up to 100% accurate, drop-in via one baseURL.",
+    "url": "https://devpost.com/software/statelens",
+    "slug": "statelens",
+    "members": [
+      "rt-wang",
+      "zhizhongs"
+    ],
+    "tags": [
+      "typescript",
+      "node.js",
+      "claude",
+      "cursor",
+      "sharp",
+      "playwright"
+    ],
+    "winner": true,
+    "like_count": 2,
+    "_query": "claude opus 4.6"
+  },
+  {
+    "name": "The Oracles",
+    "tagline": "Live forecasting endpoint for Prophet Arena. Brier 0.0378 on the 26-event sample-resolved set (0.0377 +- 0.0009 across 5 reruns) and 0.1224 on PA's 1200-event scale validation (95% CI [0.110, 0.135]).",
+    "url": "https://devpost.com/software/canadahacks",
+    "slug": "canadahacks",
+    "members": [
+      "robby955"
+    ],
+    "tags": [
+      "python",
+      "claude",
+      "fastapi",
+      "railway"
+    ],
+    "winner": false,
+    "like_count": 0,
+    "_query": "claude opus 4.6"
+  },
+  {
+    "name": "ProofOrBluff",
+    "tagline": "Bluff publicly, prove privately. ProofOrBluff is a super-fun, Midnight-native card game against a chatty AI opponent, where zero-knowledge proofs settle every challenge without revealing the hand.",
+    "url": "https://devpost.com/software/prooforbluff",
+    "slug": "prooforbluff",
+    "members": [
+      "bytewizard42i",
+      "utpalkalita3002",
+      "prantikmedhi",
+      "nightchris412"
+    ],
+    "tags": [
+      "compact",
+      "lacewallet",
+      "javascript",
+      "ts",
+      "jsx",
+      "web",
+      "bash",
+      "netlify",
+      "docker",
+      "anthropic",
+      "windsurf",
+      "github",
+      "render",
+      "google-cloud",
+      "gpt",
+      "davnici"
+    ],
+    "winner": false,
+    "like_count": 4,
+    "_query": "claude opus 4.6"
+  },
+  {
+    "name": "Forecaster",
+    "tagline": "Forecasting Hackathon",
+    "url": "https://devpost.com/software/forecaster",
+    "slug": "forecaster",
+    "members": [
+      "duckmoll",
+      "benrossjenkins"
+    ],
+    "tags": [
+      "python"
+    ],
+    "winner": false,
+    "like_count": 0,
+    "_query": "claude opus 4.6"
+  },
+  {
+    "name": "Malaya (Co-Director Creative Agent)",
+    "tagline": "Malaya: Membuka Imajinasi",
+    "url": "https://devpost.com/software/malaya-co-director-creative-agent",
+    "slug": "malaya-co-director-creative-agent",
+    "members": [
+      "mfaisalmahdy"
+    ],
+    "tags": [
+      "hermes",
+      "claude",
+      "printingpress",
+      "higgsfield",
+      "seedance",
+      "gptimage"
+    ],
+    "winner": false,
+    "like_count": 0,
+    "_query": "claude opus 4.6"
+  },
+  {
+    "name": "Rasad (رصد) — AI Observatory for Developers",
+    "tagline": "CLI, TUI, and web dashboard that monitors your AI coding sessions, costs, tool calls, context drift, and session replay. One command, zero config, fully local.",
+    "url": "https://devpost.com/software/rasad-ai-observatory-for-developers",
+    "slug": "rasad-ai-observatory-for-developers",
+    "members": [
+      "shami-ah"
+    ],
+    "tags": [
+      "typescript",
+      "node.js",
+      "react",
+      "react-ink",
+      "sqlite",
+      "tailwind-css",
+      "recharts",
+      "fastify",
+      "esbuild",
+      "vite",
+      "vitest",
+      "websocket"
+    ],
+    "winner": false,
+    "like_count": 0,
+    "_query": "claude opus 4.6"
+  },
+  {
+    "name": "Claro",
+    "tagline": "Clear Access to Resources and Opportunities",
+    "url": "https://devpost.com/software/claro-av7qjs",
+    "slug": "claro-av7qjs",
+    "members": [
+      "grs3wv"
+    ],
+    "tags": [
+      "claude"
+    ],
+    "winner": true,
+    "like_count": 7,
+    "_query": "claude opus 4.6"
+  },
+  {
+    "name": "Recap",
+    "tagline": "We screenshot everything and remember nothing. Forward saves to an AI that extracts and connects them. Turns it into your personal knowledge base which can be consumed by ur future personal AI agent ",
+    "url": "https://devpost.com/software/recap-7e6ucf",
+    "slug": "recap-7e6ucf",
+    "members": [
+      "anshitajain"
+    ],
+    "tags": [
+      "cursor"
+    ],
+    "winner": false,
+    "like_count": 0,
+    "_query": "claude opus 4.6"
+  },
+  {
+    "name": "WhiteClaw ",
+    "tagline": "Specialist agents, assembled by a Liaison, shipped as one project.",
+    "url": "https://devpost.com/software/whiteclaw",
+    "slug": "whiteclaw",
+    "members": [
+      "szjasonhuang",
+      "manuntag"
+    ],
+    "tags": [
+      "typescript",
+      "javascript",
+      "python",
+      "next.js",
+      "react",
+      "tailwindcss",
+      "postcss",
+      "node.js",
+      "html",
+      "css",
+      "claude-agent-sdk",
+      "anthropic",
+      "claude-opus",
+      "claude-sonnet",
+      "claude-haiku",
+      "server-sent-events",
+      "vercel",
+      "github",
+      "cursor",
+      "google-fonts",
+      "eslint",
+      "tsx",
+      "dompurify",
+      "httpx",
+      "beautifulsoup4",
+      "pandas",
+      "lxml"
+    ],
+    "winner": false,
+    "like_count": 2,
+    "_query": "claude opus 4.6"
+  },
+  {
+    "name": "TrialMatch AI",
+    "tagline": "An MCP-powered healthcare agent that reads live FHIR data, triages enrollment urgency, and matches patients to ClinicalTrials.gov studies with biomarker-aware reasoning.",
+    "url": "https://devpost.com/software/trialmatch-ai-a2n3mf",
+    "slug": "trialmatch-ai-a2n3mf",
+    "members": [
+      "baheldeepti",
+      "shriyaprasannan"
+    ],
+    "tags": [
+      "python",
+      "starlette",
+      "uvicorn",
+      "httpx",
+      "mcp-(model-context-protocol-over-streamable-http)",
+      "anthropic-claude-opus-4.7",
+      "prompt-opinion-(byo-agent-+-a2a-+-sharp-fhir-context)",
+      "clinicaltrials.gov-api-v2",
+      "pubmed-e-utilities",
+      "ngrok",
+      "fhir"
+    ],
+    "winner": false,
+    "like_count": 1,
+    "_query": "claude opus 4.6"
+  },
+  {
+    "name": "ClaimCheck",
+    "tagline": "A footnote on what you're reading.",
+    "url": "https://devpost.com/software/claimcheck",
+    "slug": "claimcheck",
+    "members": [
+      "zef004",
+      "freddiechiu-1"
+    ],
+    "tags": [
+      "json",
+      "javascript",
+      "html",
+      "css"
+    ],
+    "winner": false,
+    "like_count": 0,
+    "_query": "claude opus 4.6"
+  },
+  {
+    "name": "Sim Civics",
+    "tagline": "Your policy. Their reality. Everyone's problem.",
+    "url": "https://devpost.com/software/sim-civics",
+    "slug": "sim-civics",
+    "members": [
+      "ytandon",
+      "shivucsd1104"
+    ],
+    "tags": [
+      "ai"
+    ],
+    "winner": false,
+    "like_count": 0,
+    "_query": "claude opus 4.6"
+  },
+  {
+    "name": "Mean It.",
+    "tagline": "For the letter you can't quite write. Claude interviews you until your own words surface. Every line traced back to you.",
+    "url": "https://devpost.com/software/mean-it",
+    "slug": "mean-it",
+    "members": [
+      "dt444",
+      "pruthvivkadam",
+      "as4938"
+    ],
+    "tags": [
+      "typescript",
+      "claude",
+      "python",
+      "openai",
+      "mysql"
+    ],
+    "winner": true,
+    "like_count": 4,
+    "_query": "claude opus 4.6"
+  },
+  {
+    "name": "MultiEval",
+    "tagline": "The first agent-eval platform built for multi-agent orchestration. Graph + Gantt trace viewer, A/B compare with Wilson CIs, and a meta-agent that evolves harnesses against benchmarks.",
+    "url": "https://devpost.com/software/multival",
+    "slug": "multival",
+    "members": [
+      "alfred-sjoqvist",
+      "lamek-tsegay",
+      "stutig265",
+      "jjeswani"
+    ],
+    "tags": [
+      "devin",
+      "windsurf",
+      "fetch.ai",
+      "asi:one",
+      "agentverse",
+      "openhands",
+      "claude",
+      "gemini",
+      "inspect-ai",
+      "anthropic",
+      "mcp",
+      "react",
+      "typescript",
+      "vite",
+      "python",
+      "pytest"
+    ],
+    "winner": true,
+    "like_count": 3,
+    "_query": "claude opus 4.6"
+  },
+  {
+    "name": "IterViz",
+    "tagline": "A blueprinting tool that visualizes an agent's implementation plan into an interative graph.",
+    "url": "https://devpost.com/software/iterviz",
+    "slug": "iterviz",
+    "members": [
+      "ezimakyu"
+    ],
+    "tags": [
+      "python",
+      "typescript",
+      "fastapi",
+      "pydantic",
+      "instructor",
+      "pytest",
+      "react",
+      "dagre",
+      "tailwind",
+      "sqlite",
+      "anthropic",
+      "node.js",
+      "uvicorn",
+      "opus4.5"
+    ],
+    "winner": false,
+    "like_count": 0,
+    "_query": "claude opus 4.6"
+  },
+  {
+    "name": "amy",
+    "tagline": "Amy (amygdala) is the empathy layer that gives vision-language models human-centered data so people stop deciding with half the picture.",
+    "url": "https://devpost.com/software/feesh",
+    "slug": "feesh",
+    "members": [
+      "jacho15",
+      "goofybugga",
+      "junsooki",
+      "emilieduranxi"
+    ],
+    "tags": [
+      "vue",
+      "vite",
+      "three.js",
+      "fastapi",
+      "python",
+      "anthropic",
+      "k2-think",
+      "openrouter",
+      "qwen",
+      "meta-tribe",
+      "opencv",
+      "javascript",
+      "typescript"
+    ],
+    "winner": true,
+    "like_count": 4,
+    "_query": "claude opus 4.6"
+  },
+  {
+    "name": " Finn: Multimodal AI Claims Assistant for bunq",
+    "tagline": "Multimodal AI claim assistant inside the bunq app. A photo and a voice note replace the 14-field third-party portal, turning bunq's biggest elite-tier churn driver into a retention engine.",
+    "url": "https://devpost.com/software/multimodal-ai-claims-assistant-for-bunq",
+    "slug": "multimodal-ai-claims-assistant-for-bunq",
+    "members": [
+      "valery-ilicciev",
+      "andreaskruszakin",
+      "pukhaan"
+    ],
+    "tags": [
+      "typescript",
+      "python",
+      "next.js",
+      "react",
+      "fastapi",
+      "vercel",
+      "fly.io",
+      "aws-bedrock",
+      "anthropic-claude-sonnet-4.5",
+      "aws-transcribe",
+      "aws-polly",
+      "amazon-web-services",
+      "bunq-api",
+      "server-sent-events",
+      "ffmpeg",
+      "tailwind-css"
+    ],
+    "winner": false,
+    "like_count": 4,
+    "_query": "claude opus 4.6"
+  },
+  {
+    "name": "Enterprise Agent OS",
+    "tagline": "Enterprise Agent OS",
+    "url": "https://devpost.com/software/enterprise-agent-os",
+    "slug": "enterprise-agent-os",
+    "members": [
+      "cholarajarp"
+    ],
+    "tags": [
+      "for-local-dev)-go-1.22-(governance-proxy-only",
+      "node.js",
+      "python",
+      "go"
+    ],
+    "winner": false,
+    "like_count": 0,
+    "_query": "claude opus 4.6"
+  },
+  {
+    "name": "Lenz",
+    "tagline": "Ever wondered where your money disappears? Point your camera and we’ll call you out before you make another questionable purchase.",
+    "url": "https://devpost.com/software/lenz-nw5ecd",
+    "slug": "lenz-nw5ecd",
+    "members": [
+      "loghitc",
+      "rohak0098",
+      "yashbee313839"
+    ],
+    "tags": [
+      "javascript-(es2020)",
+      "html5",
+      "requests",
+      "image",
+      "encoding",
+      "vision",
+      "python",
+      "ai/ml",
+      "anthropic",
+      "claude",
+      "css3",
+      "flask",
+      "sqlite",
+      "ngrok"
+    ],
+    "winner": false,
+    "like_count": 3,
+    "_query": "claude opus 4.6"
+  },
+  {
+    "name": "PebblePath",
+    "tagline": "Guiding thriving women to manage career and family side by side",
+    "url": "https://devpost.com/software/pebblepath",
+    "slug": "pebblepath",
+    "members": [
+      "yashvirmishr-chrombook",
+      "aaravarora",
+      "ducha0701"
+    ],
+    "tags": [
+      "claude",
+      "javascript",
+      "css",
+      "html",
+      "react"
+    ],
+    "winner": false,
+    "like_count": 0,
+    "_query": "claude opus 4.6"
+  },
+  {
+    "name": "CampusCare",
+    "tagline": "Upload your insurance card — CampusCare instantly explains your coverage in plain English, estimates costs, and books your campus health appointment.",
+    "url": "https://devpost.com/software/campuscare-wo67x1",
+    "slug": "campuscare-wo67x1",
+    "members": [
+      "charith090101",
+      "renusrip"
+    ],
+    "tags": [
+      "python",
+      "anthropic",
+      "google-calendar",
+      "streamlit"
+    ],
+    "winner": false,
+    "like_count": 0,
+    "_query": "claude opus 4.6"
+  },
+  {
+    "name": "Smart Nutrition Intelligence",
+    "tagline": "Snap your meal, know your nutrition, eat smarter.",
+    "url": "https://devpost.com/software/smart-nutrition-intelligence-1oilh6",
+    "slug": "smart-nutrition-intelligence-1oilh6",
+    "members": [
+      "jeid12"
+    ],
+    "tags": [
+      "flask",
+      "html5",
+      "css3",
+      "yolo"
+    ],
+    "winner": false,
+    "like_count": 0,
+    "_query": "claude opus 4.6"
+  },
+  {
+    "name": "ACL-Smith",
+    "tagline": "A narrow demo of Mythos-class reasoning for network security. Drop in a Cisco ACL — Claude Opus 4.7 hypothesizes, traces packets through the rules, and finds the doors left open. ",
+    "url": "https://devpost.com/software/acl-smith",
+    "slug": "acl-smith",
+    "members": [
+      "n-tarun2022"
+    ],
+    "tags": [
+      "claude-opus-4-7",
+      "typescript",
+      "three.js",
+      "gsap",
+      "vite",
+      "anthropic-api",
+      "html5",
+      "css3",
+      "vercel"
+    ],
+    "winner": false,
+    "like_count": 0,
+    "_query": "claude opus 4.6"
+  },
+  {
+    "name": "Meridian",
+    "tagline": "Meridian is a shared clinical record with two authors — therapist and patient. Claude does the remembering so clinicians can be present, and patients co-author their own care in real time.",
+    "url": "https://devpost.com/software/meridian-tjxf9d",
+    "slug": "meridian-tjxf9d",
+    "members": [
+      "ygao2005",
+      "hhyiellie-a"
+    ],
+    "tags": [
+      "anthropic",
+      "claude",
+      "vercel",
+      "supabase",
+      "pgvector",
+      "whisper",
+      "openai",
+      "hume",
+      "deepgram"
+    ],
+    "winner": true,
+    "like_count": 1,
+    "_query": "claude opus 4.6"
+  },
+  {
+    "name": "Vero",
+    "tagline": "Multi-agent physical therapy, democratizing care with Claude",
+    "url": "https://devpost.com/software/vero-rwq85c",
+    "slug": "vero-rwq85c",
+    "members": [
+      "abhigyagoel",
+      "adrij2005",
+      "vedvedere",
+      "craviott"
+    ],
+    "tags": [
+      "supabase",
+      "claude",
+      "elevenlabs",
+      "mediapipe",
+      "techspelt",
+      "drizzle",
+      "typescript",
+      "claudevision"
+    ],
+    "winner": true,
+    "like_count": 2,
+    "_query": "claude opus 4.6"
+  },
+  {
+    "name": "Smart Nutrition Intelligence",
+    "tagline": "Snap your meal, know your nutrition, eat smarter.",
+    "url": "https://devpost.com/software/smart-nutrition-intelligence",
+    "slug": "smart-nutrition-intelligence",
+    "members": [
+      "jeid12",
+      "jadofils",
+      "gihozokundwapacis250",
+      "nicole0509"
+    ],
+    "tags": [
+      "flask",
+      "html5",
+      "css3",
+      "yolo8",
+      "ai",
+      "claude"
+    ],
+    "winner": true,
+    "like_count": 19,
+    "_query": "claude opus 4.6"
+  },
+  {
+    "name": "Lumio",
+    "tagline": "Lumio is your brilliant friend who knows your history to help you navigate your health. It uses AI to help patients centralize their health data, prepare for visits, and advocate for themselves. ",
+    "url": "https://devpost.com/software/lumio-imfbel",
+    "slug": "lumio-imfbel",
+    "members": [
+      "jeffmatarrese",
+      "jessicyamaymaterano"
+    ],
+    "tags": [
+      "next.js",
+      "supabase",
+      "vercel",
+      "claude"
+    ],
+    "winner": false,
+    "like_count": 0,
+    "_query": "claude opus 4.6"
+  },
+  {
+    "name": "CharitySearch",
+    "tagline": "CharitySearch helps you make AI-informed donations to causes you wish to support.",
+    "url": "https://devpost.com/software/charitysearch-9xvm71",
+    "slug": "charitysearch-9xvm71",
+    "members": [
+      "najmkhoda",
+      "shubhany",
+      "lleo022"
+    ],
+    "tags": [
+      "next.js",
+      "anthropic",
+      "hapi",
+      "fetch.ai"
+    ],
+    "winner": false,
+    "like_count": 0,
+    "_query": "claude opus 4.6"
+  },
+  {
+    "name": "Load Lorry",
+    "tagline": "\"One agent. Five problems. Zero phone calls.\"",
+    "url": "https://devpost.com/software/load-lorry",
+    "slug": "load-lorry",
+    "members": [
+      "ssathi15",
+      "hramamo1",
+      "kravik11"
+    ],
+    "tags": [
+      "react",
+      "three.js",
+      "vite",
+      "claude",
+      "claudevision",
+      "truckerpathfleetapi",
+      "json"
+    ],
+    "winner": false,
+    "like_count": 0,
+    "_query": "claude opus 4.6"
+  },
+  {
+    "name": "Snapper.AI",
+    "tagline": "Snap up the whales",
+    "url": "https://devpost.com/software/snapper-up7kbh",
+    "slug": "snapper-up7kbh",
+    "members": [
+      "brycenliu1",
+      "aidenhongg"
+    ],
+    "tags": [
+      "next.js",
+      "react18",
+      "node.js",
+      "turborepo",
+      "pnpm",
+      "recharts",
+      "postgresssql",
+      "redis",
+      "websockets",
+      "viem",
+      "zod",
+      "docker",
+      "fly.io",
+      "render",
+      "vitest"
+    ],
+    "winner": false,
+    "like_count": 0,
+    "_query": "claude opus 4.6"
+  },
+  {
+    "name": "Phia Signal",
+    "tagline": "Philosophy of discovering your signature style as insignia!",
+    "url": "https://devpost.com/software/phia-signal",
+    "slug": "phia-signal",
+    "members": [
+      "shreyanshsaurabh",
+      "alexhong2020"
+    ],
+    "tags": [
+      "next-js",
+      "fast-api",
+      "supabase-db",
+      "upstash-redis",
+      "elevenlabs",
+      "google-gemini",
+      "vercel"
+    ],
+    "winner": false,
+    "like_count": 0,
+    "_query": "claude opus 4.6"
+  },
+  {
+    "name": "inSUREd",
+    "tagline": " Scan. See. Sure. ERs spend precious minutes verifying insurance for each patient. We cut that to 5 seconds. Scan the card, see covered tests, and know costs instantly. Faster care, no surprises.",
+    "url": "https://devpost.com/software/insured",
+    "slug": "insured",
+    "members": [
+      "hadeedkhaki",
+      "ryhanshaik935",
+      "mtaha2k371",
+      "mynameisfaisal11"
+    ],
+    "tags": [
+      "react",
+      "vite",
+      "javascript",
+      "node.js",
+      "express.js",
+      "vercel",
+      "upstash-redis",
+      "claude-sonnet",
+      "openrouter",
+      "sharp",
+      "tesseract.js",
+      "heic2any",
+      "multer",
+      "react-router",
+      "html5",
+      "css3",
+      "git",
+      "replet"
+    ],
+    "winner": false,
+    "like_count": 0,
+    "_query": "claude opus 4.6"
+  },
+  {
+    "name": "Chiasm",
+    "tagline": "Cursor for Videos",
+    "url": "https://devpost.com/software/chiasm",
+    "slug": "chiasm",
+    "members": [
+      "davidchen006",
+      "stuxbet"
+    ],
+    "tags": [
+      "python",
+      "supabase",
+      "anthropic-sdk",
+      "nextjs"
+    ],
+    "winner": false,
+    "like_count": 1,
+    "_query": "claude opus 4.6"
+  },
+  {
+    "name": "LEGR",
+    "tagline": "Rocket Money on steroids: a fleet of autonomous finance agents for startups.",
+    "url": "https://devpost.com/software/legr",
+    "slug": "legr",
+    "members": [
+      "karanpratap2611",
+      "anthonyquispilaya",
+      "dienyemite",
+      "kautilyaveer24"
+    ],
+    "tags": [
+      "javascript",
+      "python",
+      "css3",
+      "postgresql",
+      "html5",
+      "dedalus",
+      "knot",
+      "photon",
+      "claude",
+      "openai"
+    ],
+    "winner": false,
+    "like_count": 3,
+    "_query": "claude opus 4.6"
+  },
+  {
+    "name": "RouteWise",
+    "tagline": "RouteWise — AI predicts your flight's delay risk before you leave home. Enter a flight number, get a probability score, reasoning, and live push alerts.",
+    "url": "https://devpost.com/software/routewise-t5ymig",
+    "slug": "routewise-t5ymig",
+    "members": [
+      "recktfps",
+      "adrianwongg1"
+    ],
+    "tags": [
+      "awslambda",
+      "dynamodb",
+      "eventbridge",
+      "expo.io",
+      "react"
+    ],
+    "winner": false,
+    "like_count": 0,
+    "_query": "claude opus 4.6"
+  },
+  {
+    "name": "Lacrima",
+    "tagline": "Karpathy showed one AI agent in a loop. Lacrima is an orchestra of them - pointed at a single dried tear, detecting chronic disease from its fractal crystals.",
+    "url": "https://devpost.com/software/lacrima",
+    "slug": "lacrima",
+    "members": [
+      "owohamper",
+      "michalandrejcaknew",
+      "jaroba0",
+      "jvladko"
+    ],
+    "tags": [
+      "python",
+      "pytorch",
+      "dinov2",
+      "biomedclip",
+      "scikit-learn",
+      "anthropic-claude",
+      "hugging-face-transformers",
+      "gradio",
+      "pyspm",
+      "html5"
+    ],
+    "winner": false,
+    "like_count": 0,
+    "_query": "claude opus 4.6"
+  },
+  {
+    "name": "Penetra",
+    "tagline": "Intelligent autonomous pen-testing for modern applications.",
+    "url": "https://devpost.com/software/idk-0elrn6",
+    "slug": "idk-0elrn6",
+    "members": [
+      "rishigolla",
+      "sugoeric15",
+      "nhnguyen",
+      "addaian"
+    ],
+    "tags": [
+      "python",
+      "typescript",
+      "javascript"
+    ],
+    "winner": true,
+    "like_count": 23,
+    "_query": "claude opus 4.6"
+  },
+  {
+    "name": "Parsly",
+    "tagline": "40% of America's food supply is wasted - most in our own kitchens. Parsly turns your grocery receipt into a live inventory that tells you what to cook before it spoils. The smallest fix that works.",
+    "url": "https://devpost.com/software/parsly-8xyn6z",
+    "slug": "parsly-8xyn6z",
+    "members": [
+      "dms26417",
+      "alivaliyev0225",
+      "swalker8008"
+    ],
+    "tags": [
+      "html",
+      "css",
+      "javascript"
+    ],
+    "winner": false,
+    "like_count": 0,
+    "_query": "claude opus 4.6"
+  },
+  {
+    "name": "Tokenwise",
+    "tagline": "Route any task through the cheapest model that can finish it. Tokenwise decomposes, routes, validates, and escalates automatically.",
+    "url": "https://devpost.com/software/tokenwise-dqr6sw",
+    "slug": "tokenwise-dqr6sw",
+    "members": [
+      "tanishmisra9"
+    ],
+    "tags": [
+      "python",
+      "fastapi",
+      "asyncio",
+      "sqlite",
+      "react",
+      "vite",
+      "websocket",
+      "docker",
+      "railway",
+      "openai-api",
+      "anthropic-api",
+      "pytest",
+      "uv"
+    ],
+    "winner": false,
+    "like_count": 0,
+    "_query": "claude opus 4.6"
+  },
+  {
+    "name": "TickerLens",
+    "tagline": "Enter a stock ticker. Read the case for buying, holding, and selling - each grounded in real fundamentals, current news, and implicit connections most tools miss. ",
+    "url": "https://devpost.com/software/tickerlens",
+    "slug": "tickerlens",
+    "members": [
+      "kamend"
+    ],
+    "tags": [
+      "next.js",
+      "typescript",
+      "tailwind",
+      "react",
+      "python",
+      "fastapi",
+      "langgraph",
+      "anthropic",
+      "claude-opus",
+      "yfinance",
+      "server-sent-events",
+      "uv",
+      "pnpm"
+    ],
+    "winner": false,
+    "like_count": 0,
+    "_query": "claude opus 4.6"
+  },
+  {
+    "name": "GigConnect",
+    "tagline": "GigConnect is a hyperlocal gig-work marketplace designed for informal workers in India",
+    "url": "https://devpost.com/software/gigconnect-d782x0",
+    "slug": "gigconnect-d782x0",
+    "members": [
+      "tt1230764",
+      "tt1230088",
+      "lavasahab1230",
+      "meharaaditya9"
+    ],
+    "tags": [
+      "node.js",
+      "sarvam",
+      "groq",
+      "rag"
+    ],
+    "winner": false,
+    "like_count": 0,
+    "_query": "claude opus 4.6"
+  },
+  {
+    "name": "Tasklings - AI Integrated Pet System To Keep You On Task!",
+    "tagline": "Remaining motivated and on-task is a major difficulty for a vast number of people (myself included.) This app rewards task completion with virtual pet well-being, with local AI enriching the features.",
+    "url": "https://devpost.com/software/tasklings-ai-integrated-pet-system-to-keep-you-on-task",
+    "slug": "tasklings-ai-integrated-pet-system-to-keep-you-on-task",
+    "members": [
+      "ldameron"
+    ],
+    "tags": [
+      "gemini-3.1-pro",
+      "claude-opus-4.6",
+      "gpt-5.4",
+      "gemini-3-flash",
+      "cursor-auto",
+      "openrouter",
+      "java",
+      "javascript",
+      "html",
+      "css",
+      "bash",
+      "android",
+      "android-webview",
+      "android-speech",
+      "android-tts",
+      "javac",
+      "aapt",
+      "d8",
+      "zipalign",
+      "apksigner"
+    ],
+    "winner": false,
+    "like_count": 0,
+    "_query": "claude opus 4.6"
+  },
+  {
+    "name": "sigmap",
+    "tagline": "97% token reduction for AI coding sessions — zero deps, 21 languages, MCP server",
+    "url": "https://devpost.com/software/sigmap",
+    "slug": "sigmap",
+    "members": [
+      "mmallick1990"
+    ],
+    "tags": [
+      "javascript",
+      "kotlin",
+      "shell"
+    ],
+    "winner": false,
+    "like_count": 0,
+    "_query": "claude opus 4.6"
+  },
+  {
+    "name": "Reverse Engineering the Boosted Boards Remote - Part 1",
+    "tagline": "How I used Codex to reverse-engineer the Boosted Board electric skateboard remote",
+    "url": "https://devpost.com/software/boosted-boards-remote",
+    "slug": "boosted-boards-remote",
+    "members": [
+      "mgd1984"
+    ],
+    "tags": [
+      "codex",
+      "python",
+      "kicad"
+    ],
+    "winner": false,
+    "like_count": 0,
+    "_query": "claude opus 4.6"
+  },
+  {
+    "name": "GreenLedger",
+    "tagline": "GreenLedger is a sustainable AI middleware that downgrades overkill queries to greener models. It tracks real-time carbon footprints and uses the resulting API cost savings to fund carbon removal.",
+    "url": "https://devpost.com/software/greenledger-ufpsz3",
+    "slug": "greenledger-ufpsz3",
+    "members": [
+      "kkota3",
+      "rahulbaweja2004",
+      "soham-1827",
+      "sm11t"
+    ],
+    "tags": [
+      "python",
+      "fastapi",
+      "llm",
+      "react",
+      "next.js",
+      "llama",
+      "gemini",
+      "supabase",
+      "openai",
+      "claude"
+    ],
+    "winner": false,
+    "like_count": 0,
+    "_query": "claude opus 4.6"
+  },
+  {
+    "name": "Agastya",
+    "tagline": "AI Medication Intelligence System",
+    "url": "https://devpost.com/software/agastya-pjmfu6",
+    "slug": "agastya-pjmfu6",
+    "members": [
+      "mtirunangurgirinaray840"
+    ],
+    "tags": [
+      "react",
+      "python",
+      "javascript",
+      "firebase",
+      "api",
+      "flask",
+      "vite",
+      "css",
+      "tailwind",
+      "blender"
+    ],
+    "winner": false,
+    "like_count": 1,
+    "_query": "claude opus 4.6"
+  },
+  {
+    "name": "The Invisible Patient",
+    "tagline": "The mental health crisis hiding inside the brain health crisis.",
+    "url": "https://devpost.com/software/the-invisible-patient",
+    "slug": "the-invisible-patient",
+    "members": [
+      "slakhera2323",
+      "shivakash7333"
+    ],
+    "tags": [
+      "typescript",
+      "tailwind",
+      "next.js",
+      "react",
+      "recharts",
+      "framer",
+      "date-fns",
+      "lucide-react",
+      "vercel",
+      "speech-recognition",
+      "speech-synthesis",
+      "zarit-burden-interview",
+      "linguistic-wellbeing-analysis"
+    ],
+    "winner": false,
+    "like_count": 0,
+    "_query": "claude opus 4.6"
+  },
+  {
+    "name": "AdaptEd",
+    "tagline": "From static content to adaptive learning—AI that personalizes quizzes and recaps based on mistakes so students actually retain what they learn.",
+    "url": "https://devpost.com/software/adapted-dlp4q5",
+    "slug": "adapted-dlp4q5",
+    "members": [
+      "devilips",
+      "am59710"
+    ],
+    "tags": [
+      "claudeadk",
+      "claude",
+      "python",
+      "html",
+      "css"
+    ],
+    "winner": false,
+    "like_count": 1,
+    "_query": "claude opus 4.6"
+  },
+  {
+    "name": "Sage",
+    "tagline": "Your Passport to Better Healthcare.",
+    "url": "https://devpost.com/software/sage-ck42we",
+    "slug": "sage-ck42we",
+    "members": [
+      "emmag-22",
+      "frederic-yao"
+    ],
+    "tags": [
+      "typescript",
+      "react-native",
+      "expo.io",
+      "vercel",
+      "upstash-redis",
+      "sqlite",
+      "claude-api",
+      "openfda-api",
+      "eas"
+    ],
+    "winner": false,
+    "like_count": 1,
+    "_query": "claude opus 4.6"
+  },
+  {
+    "name": "RehabCompass",
+    "tagline": "Three AI agents. One coordinated answer. RehabCompass cuts through fragmented care to turn clinical data and insurance policy into an actionable rehab recommendation.",
+    "url": "https://devpost.com/software/recovery-intelligence-system",
+    "slug": "recovery-intelligence-system",
+    "members": [
+      "crazymmg47",
+      "3o30"
+    ],
+    "tags": [
+      "python",
+      "fastapi",
+      "pydantic",
+      "opus",
+      "sentence-transformer",
+      "scikit-learn",
+      "numpy",
+      "beautifulsoup4",
+      "trafilatura",
+      "pypdf",
+      "requests",
+      "unicorn",
+      "httpx",
+      "json-rpc"
+    ],
+    "winner": false,
+    "like_count": 2,
+    "_query": "claude opus 4.6"
+  },
+  {
+    "name": "Video intelligence",
+    "tagline": "Search any moment. Segment any broadcast. Clear any content — semantic video intelligence for broadcast archives, powered by TwelveLabs, Neo4j, and Claude Opus 4.6.\r\n",
+    "url": "https://devpost.com/software/video-intelligence-hwevut",
+    "slug": "video-intelligence-hwevut",
+    "members": [
+      "suvasism"
+    ],
+    "tags": [
+      "python",
+      "docker",
+      "javascript",
+      "react",
+      "opus",
+      "claude",
+      "neo4j",
+      "redis",
+      "cypher",
+      "twelvelabs"
+    ],
+    "winner": false,
+    "like_count": 1,
+    "_query": "claude opus 4.6"
+  },
+  {
+    "name": "neuro-trading.",
+    "tagline": "fMRI-enhanced swarm simulations for prediction markets",
+    "url": "https://devpost.com/software/neuro-trader",
+    "slug": "neuro-trader",
+    "members": [
+      "alol12",
+      "ph2740",
+      "mati-coldea"
+    ],
+    "tags": [
+      "python",
+      "vue.js",
+      "d3.js",
+      "openai-agents-sdk",
+      "polymarket-api",
+      "neo4j",
+      "sqlite",
+      "flask",
+      "fastapi",
+      "pytorch",
+      "meta-tribe-v2",
+      "nilearn",
+      "nimare",
+      "nltools",
+      "camel-ai-oasis",
+      "mirofish",
+      "docker",
+      "vite"
+    ],
+    "winner": false,
+    "like_count": 2,
+    "_query": "claude opus 4.6"
+  },
+  {
+    "name": "World Token Factory",
+    "tagline": "Resolves your risk from uncertainty with tokens!",
+    "url": "https://devpost.com/software/world-token-factory",
+    "slug": "world-token-factory",
+    "members": [
+      "sivolc2",
+      "calebstrom5",
+      "globalmysterysnailrevolution"
+    ],
+    "tags": [
+      "python",
+      "pnpm",
+      "javascript"
+    ],
+    "winner": false,
+    "like_count": 0,
+    "_query": "claude opus 4.6"
+  },
+  {
+    "name": "Sentinel: Self-Learning System for AI Cybersecurity",
+    "tagline": "The frontier for AI safety and cybersecurity is AI supervising AI. Sentinel is a self-learning and healing agentic AI system. Applicable for autonomous payment agents and other use cases.",
+    "url": "https://devpost.com/software/sentinel-self-learning-system-for-ai-cybersecurity",
+    "slug": "sentinel-self-learning-system-for-ai-cybersecurity",
+    "members": [
+      "stevenybusiness"
+    ],
+    "tags": [
+      "python",
+      "typescript",
+      "javascript"
+    ],
+    "winner": false,
+    "like_count": 0,
+    "_query": "claude opus 4.6"
+  },
+  {
+    "name": "watchable",
+    "tagline": "AI UGC video ads for DTC/ CPG- 2x faster &amp; cheaper",
+    "url": "https://devpost.com/software/watchable-9wpefq",
+    "slug": "watchable-9wpefq",
+    "members": [
+      "evgeny-nelepko",
+      "arturiop"
+    ],
+    "tags": [
+      "python",
+      "typescript",
+      "fastapi",
+      "next.js",
+      "react",
+      "tailwind-css",
+      "claude-opus-4.6",
+      "gpt",
+      "auth0",
+      "airbyte",
+      "ghost",
+      "amazon-web-services",
+      "postgresql",
+      "redis",
+      "docker",
+      "shipables.dev"
+    ],
+    "winner": false,
+    "like_count": 0,
+    "_query": "claude opus 4.6"
+  },
+  {
+    "name": "Saqr — Autonomous Security Remediation Agent",
+    "tagline": "Transforms security alerts into resolved issues in seconds — autonomous vulnerability remediation.",
+    "url": "https://devpost.com/software/saqr-autonomous-security-remediation-agent",
+    "slug": "saqr-autonomous-security-remediation-agent",
+    "members": [
+      "wmr121"
+    ],
+    "tags": [
+      "python",
+      "claude",
+      "agent",
+      "platform",
+      "ci/cd",
+      "sast",
+      "dependency",
+      "scanning",
+      "httpx",
+      "anthropic",
+      "gitlabduo"
+    ],
+    "winner": false,
+    "like_count": 0,
+    "_query": "claude opus 4.6"
+  },
+  {
+    "name": "Council",
+    "tagline": "Drop in any idea. 1,000 AI agents across many different model families debate it, strip away sycophancy, and surface the non-obvious insights a single model can't find. ",
+    "url": "https://devpost.com/software/council-fszux2",
+    "slug": "council-fszux2",
+    "members": [
+      "llliill",
+      "zghockey17"
+    ],
+    "tags": [
+      "next.js-16",
+      "react-19",
+      "typescript",
+      "tailwind-4",
+      "vercel-ai-sdk-6",
+      "react",
+      "three",
+      "fiber"
+    ],
+    "winner": false,
+    "like_count": 0,
+    "_query": "claude opus 4.6"
+  },
+  {
+    "name": "SPIRL",
+    "tagline": "From first spark to first commit",
+    "url": "https://devpost.com/software/spirl",
+    "slug": "spirl",
+    "members": [
+      "gegearsyah",
+      "palm-ravicha"
+    ],
+    "tags": [
+      "nextjs",
+      "fastapi",
+      "cursor",
+      "antigravity",
+      "claude",
+      "manus",
+      "openai",
+      "openrouter",
+      "supabase",
+      "mcp",
+      "skill"
+    ],
+    "winner": false,
+    "like_count": 0,
+    "_query": "claude opus 4.6"
+  },
+  {
+    "name": "Mortgage AI",
+    "tagline": "MortgageAI helps users estimate what home they can afford, see qualification insights, and get personalized next steps in under a minute.",
+    "url": "https://devpost.com/software/mortgage-ai",
+    "slug": "mortgage-ai",
+    "members": [
+      "tannerschulz",
+      "keanu-jon-hansen"
+    ],
+    "tags": [
+      "react",
+      "typescript",
+      "vite",
+      "python",
+      "fastapi",
+      "claude"
+    ],
+    "winner": false,
+    "like_count": 0,
+    "_query": "claude opus 4.6"
+  },
+  {
+    "name": "KryptosProof",
+    "tagline": "The security audit that fixes itself",
+    "url": "https://devpost.com/software/kryptoproof",
+    "slug": "kryptoproof",
+    "members": [
+      "mduong",
+      "dnguyen5444",
+      "zazatov3011"
+    ],
+    "tags": [
+      "python",
+      "uv",
+      "gcp",
+      "openai",
+      "typescript",
+      "claude",
+      "cursor",
+      "docker",
+      "nextjs",
+      "pydantic",
+      "ai"
+    ],
+    "winner": false,
+    "like_count": 1,
+    "_query": "claude opus 4.6"
+  },
+  {
+    "name": "CADence",
+    "tagline": "Cadence enables agent driven CAD workflows with strict compliance guardrails.",
+    "url": "https://devpost.com/software/cadence-tl2bzi",
+    "slug": "cadence-tl2bzi",
+    "members": [
+      "sayed-hayat05",
+      "rupertchin"
+    ],
+    "tags": [
+      "vite",
+      "react",
+      "three.js",
+      "mediapipe",
+      "typescript",
+      "whisper",
+      "claude",
+      "jscad",
+      "opendataloader"
+    ],
+    "winner": true,
+    "like_count": 2,
+    "_query": "claude opus 4.6"
+  },
+  {
+    "name": "WearTruth",
+    "tagline": "An AI-powered label analyzer that reveals the hidden environmental and health impact of your clothes in seconds.",
+    "url": "https://devpost.com/software/weartruth",
+    "slug": "weartruth",
+    "members": [
+      "metrama183"
+    ],
+    "tags": [
+      "html5",
+      "css3",
+      "react",
+      "vite",
+      "groq",
+      "vercel",
+      "javascript"
+    ],
+    "winner": false,
+    "like_count": 0,
+    "_query": "claude opus 4.6"
+  },
+  {
+    "name": "LoopAgent",
+    "tagline": "AI agent that bridges PMs and devs — auto-reads GitLab issues, generates code scaffolding with Claude AI, opens draft MRs, and iterates on reviewer feedback. All in under 30 seconds.\r\n",
+    "url": "https://devpost.com/software/loopagent",
+    "slug": "loopagent",
+    "members": [
+      "rajalaksmi-sankar-work",
+      "kkrajkumar1198"
+    ],
+    "tags": [
+      "python",
+      "flask",
+      "claude-claude-opus-4-6-(anthropic)",
+      "gitlab-webhooks-api",
+      "python-gitlab",
+      "gitlab-rest-api",
+      "anthropic-python-sdk",
+      "python-dotenv",
+      "docker",
+      "ngrok"
+    ],
+    "winner": false,
+    "like_count": 0,
+    "_query": "claude opus 4.6"
+  },
+  {
+    "name": "Voice-First Agent for FSM for Small Businesses of All Trades",
+    "tagline": "A voice-first Field Service Management AI Agent featuring real-time tools for database access, conversation barge-in, and near zero hallucinations, powered entirely by Gemini 2.5 Flash Live.",
+    "url": "https://devpost.com/software/voice-first-agent-for-fsm-for-small-businesses-of-all-trades",
+    "slug": "voice-first-agent-for-fsm-for-small-businesses-of-all-trades",
+    "members": [
+      "eroleraybar"
+    ],
+    "tags": [
+      "firebase",
+      "gemini-2.5-flash",
+      "gemini-live-api",
+      "agent-development-kit",
+      "google-genai-sdk",
+      "multimodal-live-api",
+      "google-cloud",
+      "cloud-firestore",
+      "cloud-functions",
+      "firebase-hosting",
+      "firebase-authentication",
+      "react",
+      "node.js",
+      "typescript",
+      "claude-code-vs-studio",
+      "antigravity-claude-opus-4.6",
+      "antigravity-gemini-3.1"
+    ],
+    "winner": false,
+    "like_count": 0,
+    "_query": "claude opus 4.6"
+  },
+  {
+    "name": "Stratis - Supply Chain Intelligence ",
+    "tagline": "Stratis is a Supply Chain Intelligence platform designed to provide real-time resilience through predictive modeling. It transforms static supply chains into dynamic, risk-aware networks.",
+    "url": "https://devpost.com/software/stratis-supply-chain-intelligence",
+    "slug": "stratis-supply-chain-intelligence",
+    "members": [
+      "ryantan182",
+      "sig-rain-ou",
+      "edbert-fl",
+      "john-zhang959",
+      "feliciaoctavionachang",
+      "darrenmelvinson"
+    ],
+    "tags": [
+      "next.js",
+      "react",
+      "typescript",
+      "tailwind-css",
+      "shadcn/ui",
+      "radix-ui",
+      "mapbox-gl-js",
+      "openai-gpt-4o",
+      "claude-(via-openrouter)",
+      "gdelt-api",
+      "recharts",
+      "zod",
+      "kimi/k2.5",
+      "mapbox"
+    ],
+    "winner": false,
+    "like_count": 40,
+    "_query": "claude opus 4.6"
+  },
+  {
+    "name": "MedBot: A Voice-Controlled Medicine Retrieval Robot",
+    "tagline": "MedBot is an AI-powered robotic assistant that retrieves medications using voice commands, autonomous navigation, and vision verification to improve hospital efficiency and accessibility.",
+    "url": "https://devpost.com/software/medbot-a-voice-controlled-medicine-retrieval-robot",
+    "slug": "medbot-a-voice-controlled-medicine-retrieval-robot",
+    "members": [
+      "jchanahs32",
+      "nikkitaseth3",
+      "shankartr123"
+    ],
+    "tags": [
+      "python",
+      "opus",
+      "smallest.ai",
+      "waves",
+      "unitreego2",
+      "cyberwave"
+    ],
+    "winner": false,
+    "like_count": 0,
+    "_query": "claude opus 4.6"
+  },
+  {
+    "name": "SDLC Guardian",
+    "tagline": "The DevSecOps Agent That Never Sleeps",
+    "url": "https://devpost.com/software/sdlc-guardian",
+    "slug": "sdlc-guardian",
+    "members": [
+      "rogerkorantenng"
+    ],
+    "tags": [
+      "gitlab",
+      "anthropic"
+    ],
+    "winner": false,
+    "like_count": 0,
+    "_query": "claude opus 4.6"
+  },
+  {
+    "name": "EqualTales",
+    "tagline": "Children absorb stereotypes by age 6. EqualTales turns those stereotypes into bedtime stories featuring real women who broke barriers.",
+    "url": "https://devpost.com/software/equaltales",
+    "slug": "equaltales",
+    "members": [
+      "hafsa-usmani2"
+    ],
+    "tags": [
+      "react",
+      "flask",
+      "python",
+      "javascript",
+      "claude-opus-4.6",
+      "claude-sonnet-4.5",
+      "dall-e-3",
+      "openrouter",
+      "openai-api",
+      "fastmcp",
+      "goose",
+      "server-sent-events-(sse)",
+      "vercel",
+      "render",
+      "css3",
+      "html5"
+    ],
+    "winner": true,
+    "like_count": 5,
+    "_query": "claude opus 4.6"
+  },
+  {
+    "name": "Soul Support",
+    "tagline": "Connecting Therapists and Specially Abled Students and Children, Making Easily Accessible and User Friendly, Providing Localized Language Support",
+    "url": "https://devpost.com/software/soul-support-n8cvdx",
+    "slug": "soul-support-n8cvdx",
+    "members": [
+      "praneelsindhole2005",
+      "sanjupokemon",
+      "i-ojasvipoonia",
+      "utkarshishu2627"
+    ],
+    "tags": [
+      "next.js",
+      "mongodb",
+      "mongoose",
+      "react",
+      "tailwind",
+      "express.js",
+      "redis",
+      "n8n",
+      "nginx",
+      "docker",
+      "ai"
+    ],
+    "winner": false,
+    "like_count": 4,
+    "_query": "claude opus 4.6"
+  },
+  {
+    "name": "CodeFleet",
+    "tagline": "Orchestrate parallel AI coding agents with Elasticsearch. Fleet Commander assigns tasks, detects conflicts, and monitors progress — so you stop babysitting and start delegating.",
+    "url": "https://devpost.com/software/codefleet",
+    "slug": "codefleet",
+    "members": [
+      "vkumar"
+    ],
+    "tags": [
+      "javascript",
+      "elastic-search"
+    ],
+    "winner": false,
+    "like_count": 1,
+    "_query": "claude opus 4.6"
+  },
+  {
+    "name": "BuddyAI",
+    "tagline": "A highly contextualized and personalized wellness app",
+    "url": "https://devpost.com/software/buddyai-4tlsha",
+    "slug": "buddyai-4tlsha",
+    "members": [
+      "shopperblocker"
+    ],
+    "tags": [
+      "typescript",
+      "react",
+      "next.js"
+    ],
+    "winner": false,
+    "like_count": 0,
+    "_query": "claude opus 4.6"
+  },
+  {
+    "name": "FlipKit!",
+    "tagline": "Upload a photo of any item into cash by using an to determine its market value. With one tap, our voice calls buyers to negotiate the highest offer on your behalf, eliminating the friction of selling.",
+    "url": "https://devpost.com/software/flipkit",
+    "slug": "flipkit",
+    "members": [
+      "bjl229",
+      "ws535",
+      "sakshamcollege",
+      "toadityamittal"
+    ],
+    "tags": [
+      "claude",
+      "nvidia",
+      "nemotron",
+      "nvidia-nemotron",
+      "langgraph",
+      "elevenlabs",
+      "next.js",
+      "react",
+      "react-native",
+      "typescript",
+      "tailwind-css",
+      "python",
+      "python-package-index",
+      "fastapi",
+      "supabase",
+      "clerk",
+      "searchapi",
+      "vercel",
+      "render"
+    ],
+    "winner": true,
+    "like_count": 8,
+    "_query": "claude opus 4.6"
+  },
+  {
+    "name": "Baloney",
+    "tagline": "51% of web traffic is now bots. 74% of new web pages contain AI content. People can't tell what's real anymore, and there's no easy and non invasive way to check.",
+    "url": "https://devpost.com/software/baloney",
+    "slug": "baloney",
+    "members": [
+      "nategarelik",
+      "benverhaalen"
+    ],
+    "tags": [
+      "javascript",
+      "react",
+      "next",
+      "python"
+    ],
+    "winner": true,
+    "like_count": 2,
+    "_query": "claude opus 4.6"
+  },
+  {
+    "name": "SpatialFlow",
+    "tagline": "SpatialFlow - Know exactly where every material, worker and zone belongs on your construction site. Every week, in Seconds.",
+    "url": "https://devpost.com/software/spatialflow",
+    "slug": "spatialflow",
+    "members": [
+      "harshigr",
+      "swapnika29",
+      "suryajk"
+    ],
+    "tags": [
+      "python",
+      "css",
+      "html",
+      "javascript",
+      "flask",
+      "claude"
+    ],
+    "winner": false,
+    "like_count": 0,
+    "_query": "claude opus 4.6"
+  },
+  {
+    "name": "BrewSmart ",
+    "tagline": "Stop guessing. Start brewing smarter.",
+    "url": "https://devpost.com/software/brewsmart",
+    "slug": "brewsmart",
+    "members": [
+      "josepgudiel"
+    ],
+    "tags": [
+      "claude",
+      "cursor",
+      "python",
+      "machine-learning",
+      "streamlit"
+    ],
+    "winner": false,
+    "like_count": 1,
+    "_query": "claude opus 4.6"
+  },
+  {
+    "name": "Polyverse",
+    "tagline": "See Prediction Markets in a New Light.",
+    "url": "https://devpost.com/software/polyverse-zrx1in",
+    "slug": "polyverse-zrx1in",
+    "members": [
+      "vbshuliar",
+      "maksim-dh",
+      "snowcodeer",
+      "savka777"
+    ],
+    "tags": [
+      "typescript",
+      "next.js",
+      "react",
+      "tailwind-css",
+      "claude",
+      "vertex-ai",
+      "vercel-ai-sdk",
+      "langgraph",
+      "zod",
+      "polymarket-api",
+      "valyu-api",
+      "three.js",
+      "react-three-fiber",
+      "d3.js",
+      "tradingview-lightweight-charts",
+      "sqlite",
+      "drizzle-orm",
+      "solana",
+      "react-query",
+      "radix-ui",
+      "braintrust",
+      "google"
+    ],
+    "winner": false,
+    "like_count": 2,
+    "_query": "claude opus 4.6"
+  },
+  {
+    "name": "Sleep Like A Baby",
+    "tagline": "Let agents heal, learn and grow while you sleep. Analyze conversation history to identify patterns and suggest workflow improvements",
+    "url": "https://devpost.com/software/sleep-like-a-baby",
+    "slug": "sleep-like-a-baby",
+    "members": [
+      "tejasdc"
+    ],
+    "tags": [
+      "python",
+      "gemini",
+      "braintrust"
+    ],
+    "winner": false,
+    "like_count": 0,
+    "_query": "claude opus 4.6"
+  },
+  {
+    "name": "New Dejima",
+    "tagline": "An economic infrastructure layer that gives AI agents maximum real-world agency — building apps, trading markets, generating content, and proving that revenue-per-token &gt; cost-per-token.",
+    "url": "https://devpost.com/software/new-dejima",
+    "slug": "new-dejima",
+    "members": [
+      "ice-citron",
+      "nahomghirmayeyob",
+      "mrxyacinex"
+    ],
+    "tags": [
+      "claude-opus-4.6",
+      "python",
+      "kotlin",
+      "jetpack-compose",
+      "typescript",
+      "react",
+      "node.js",
+      "express.js",
+      "gradle",
+      "android",
+      "paid.ai",
+      "stripe",
+      "solana",
+      "google-cloud",
+      "vertex-ai",
+      "lovable",
+      "elevenlabs",
+      "openai",
+      "miro-ai",
+      "langgraph",
+      "vite",
+      "tailwind-css",
+      "shadcn/ui",
+      "tanstack-react-query",
+      "recharts",
+      "coingecko-api",
+      "finnhub-api",
+      "nasa-api",
+      "spoonacular-api",
+      "deepl-api",
+      "pexels-api",
+      "spotify",
+      "youtube-api-v3",
+      "reddit",
+      "groq",
+      "wolfram-technologies",
+      "gemini-3-flash",
+      "gemini-3.1-pro",
+      "openclaw",
+      "pi-mono",
+      "anthropic",
+      "zed"
+    ],
+    "winner": false,
+    "like_count": 2,
+    "_query": "claude opus 4.6"
+  },
+  {
+    "name": "Council of Alphas",
+    "tagline": "Evolutionary multi-agent framework that prevents LLM mode collapse in trading strategy generation through enforced diversity, hybridization, and regime-aware filtering.",
+    "url": "https://devpost.com/software/council-of-alphas",
+    "slug": "council-of-alphas",
+    "members": [
+      "apattichis",
+      "markosmarkides"
+    ],
+    "tags": [
+      "python",
+      "claude-opus-api",
+      "numba",
+      "pandas",
+      "asyncio",
+      "react",
+      "vite",
+      "tailwind-css",
+      "recharts",
+      "vercel"
+    ],
+    "winner": false,
+    "like_count": 0,
+    "_query": "claude opus 4.6"
+  },
+  {
+    "name": "MARS: Multi-Agent Research Synthesizer",
+    "tagline": "5 AI agents investigate operational incidents using Elastic Agent Builder, ES|QL, and Search detecting contradictions between sources and resolving them with a real-time Evidence Heatmap.",
+    "url": "https://devpost.com/software/mars-multi-agent-research-synthesizer",
+    "slug": "mars-multi-agent-research-synthesizer",
+    "members": [
+      "pimpalkar-aditya123",
+      "dsahare75"
+    ],
+    "tags": [
+      "elasticsearch",
+      "python",
+      "fastapi",
+      "claude",
+      "opus",
+      "tavily",
+      "chart.js",
+      "es|ql",
+      "kibana",
+      "apache",
+      "elastic",
+      "agent"
+    ],
+    "winner": false,
+    "like_count": 0,
+    "_query": "claude opus 4.6"
+  },
+  {
+    "name": "FixIt",
+    "tagline": "Describe your project, add your tools and photos — get a beautiful step-by-step DIY guide generated by AI in seconds.",
+    "url": "https://devpost.com/software/fixit-jp5rn0",
+    "slug": "fixit-jp5rn0",
+    "members": [
+      "quentinams"
+    ],
+    "tags": [
+      "nextjs",
+      "typescript",
+      "anthropic"
+    ],
+    "winner": false,
+    "like_count": 0,
+    "_query": "claude opus 4.6"
+  },
+  {
+    "name": "ClineReel - Create promotional videos ",
+    "tagline": "Imagine being able to create promo videos for your products instantly",
+    "url": "https://devpost.com/software/new-project-7fdk5w",
+    "slug": "new-project-7fdk5w",
+    "members": [
+      "hrishikesha40",
+      "ajagalurraghuvara"
+    ],
+    "tags": [
+      "cline",
+      "fastapi",
+      "react",
+      "vite",
+      "tailwind",
+      "kilocode"
+    ],
+    "winner": false,
+    "like_count": 0,
+    "_query": "claude opus 4.6"
+  },
+  {
+    "name": "3AI Desk - 4k agentic desk for AI Pros ",
+    "tagline": "AI Engineers need visual tools to collaborate with business SMEs, to facilitates quick understanding of the idea/SOW, Project, Team Skills &amp; Agents, and Results and to speedup AI Transformations",
+    "url": "https://devpost.com/software/issue-triage-with-human-voting",
+    "slug": "issue-triage-with-human-voting",
+    "members": [
+      "ianta-labs"
+    ],
+    "tags": [
+      "javascript",
+      "hugo",
+      "duo",
+      "google",
+      "cloud",
+      "storage",
+      "gas"
+    ],
+    "winner": false,
+    "like_count": 0,
+    "_query": "claude opus 4.6"
+  },
+  {
+    "name": "NoShot (You're Still Leetcoding)",
+    "tagline": "NoShot is the Leetcode for AI prompting — compete on speed/accuracy directing LLMs to code, UI, &amp; do PRDs. Our B2B lever allows you to hire via prompting interviews &amp; purchase training data. ",
+    "url": "https://devpost.com/software/noshot-you-re-still-leetcoding",
+    "slug": "noshot-you-re-still-leetcoding",
+    "members": [
+      "saurish",
+      "tigershark22",
+      "emluo",
+      "zhouhelena"
+    ],
+    "tags": [
+      "modal-sandboxes",
+      "vercel-sandboxes",
+      "claude-agent-sdk",
+      "browserbase-stagehand",
+      "perplexity-sonar-api",
+      "supabase",
+      "fastapi",
+      "typescript",
+      "auth0"
+    ],
+    "winner": false,
+    "like_count": 2,
+    "_query": "claude opus 4.6"
+  },
+  {
+    "name": "HIVE: Swarm Intelligence.",
+    "tagline": "HIVE is your personal workforce that makes digital busywork obsolete. Launch a swarm of parallel, background computer use agents to solve any computer use task — specialized agents for GSuite and more",
+    "url": "https://devpost.com/software/hive-swarm-intelligence",
+    "slug": "hive-swarm-intelligence",
+    "members": [
+      "joe5050-li",
+      "bcostin"
+    ],
+    "tags": [
+      "browserbase",
+      "claude",
+      "modal",
+      "fetch.ai"
+    ],
+    "winner": true,
+    "like_count": 2,
+    "_query": "claude opus 4.6"
+  },
+  {
+    "name": "ProduceThing",
+    "tagline": "Most AI music tools generate songs. ProduceThing helps you write better ones. It coaches lyrics in real time, then an autonomous agent arranges and refines them into a finished track.",
+    "url": "https://devpost.com/software/producething",
+    "slug": "producething",
+    "members": [
+      "ads2280",
+      "joskoo",
+      "emily_kang",
+      "exliu"
+    ],
+    "tags": [
+      "next.js",
+      "react",
+      "typescript",
+      "tailwind",
+      "radix",
+      "waveform-playlist",
+      "gpt5",
+      "opus4.6",
+      "suno",
+      "modal",
+      "vercel"
+    ],
+    "winner": false,
+    "like_count": 0,
+    "_query": "claude opus 4.6"
+  },
+  {
+    "name": "Pebble",
+    "tagline": "A purpose-built AI learning device for kids. Voice-first with on-device speech recognition, age-calibrated safety guardrails, a real-time parent dashboard, and LMS integration.",
+    "url": "https://devpost.com/software/pebble-90j1q6",
+    "slug": "pebble-90j1q6",
+    "members": [
+      "zane-programs"
+    ],
+    "tags": [
+      "kotlin",
+      "typescript",
+      "node.js",
+      "claude-agent-sdk",
+      "gemini",
+      "openai",
+      "render",
+      "postgresql",
+      "elevenlabs"
+    ],
+    "winner": false,
+    "like_count": 1,
+    "_query": "claude opus 4.6"
+  },
+  {
+    "name": "Veritas",
+    "tagline": "AI-powered YouTube fact-checker that extracts claims, verifies them against trusted sources, and exposes manipulation tactics in real-time.",
+    "url": "https://devpost.com/software/veritas-pl5fo6",
+    "slug": "veritas-pl5fo6",
+    "members": [
+      "metrama183"
+    ],
+    "tags": [
+      "next.js",
+      "react",
+      "typescript",
+      "tailwind",
+      "groq",
+      "whisper",
+      "tavily",
+      "node.js",
+      "llama"
+    ],
+    "winner": false,
+    "like_count": 0,
+    "_query": "claude opus 4.6"
+  },
+  {
+    "name": "Sentinel",
+    "tagline": "Full-stack AI for bare-metal embedded systems. Proven by shipping a complete bare-metal OS on Raspberry Pi from scratch in 24 hours.",
+    "url": "https://devpost.com/software/sentinel-c8ki50",
+    "slug": "sentinel-c8ki50",
+    "members": [
+      "jamesc27",
+      "saik450",
+      "aaravwattal",
+      "andgiuri"
+    ],
+    "tags": [
+      "c",
+      "arm-assembly",
+      "python",
+      "typescript",
+      "claude-agent-sdk",
+      "claude-opus",
+      "fastapi",
+      "next.js",
+      "react",
+      "tailwind",
+      "uvicorn",
+      "gh",
+      "arm-none-eabi-gcc",
+      "rpi-zero-w"
+    ],
+    "winner": true,
+    "like_count": 4,
+    "_query": "claude opus 4.6"
+  },
+  {
+    "name": "OptiMATE",
+    "tagline": "We provide large-scale business operations teams with an instantaneous access to PhD-level mathematical solutions to their everyday optimization problems (routing parcels, scheduling workforce, etc.).",
+    "url": "https://devpost.com/software/optimax",
+    "slug": "optimax",
+    "members": [
+      "furaggananb",
+      "hindyrossignol",
+      "jokesmaniac01",
+      "ezzheng"
+    ],
+    "tags": [
+      "gurobi",
+      "openai",
+      "anthropic",
+      "python",
+      "google-cloud",
+      "heygen",
+      "render",
+      "vercel"
+    ],
+    "winner": false,
+    "like_count": 0,
+    "_query": "claude opus 4.6"
+  },
+  {
+    "name": "Synapse",
+    "tagline": "Claim-level truth forensics–trace any idea back to its origin and know what's actually true. Powered by Perplexity Sonar, Claude Sonnet, and Semantic Scholar, orchestrated for multi-step verification.",
+    "url": "https://devpost.com/software/a-p1lt2h",
+    "slug": "a-p1lt2h",
+    "members": [
+      "yravipati",
+      "rickyang11109"
+    ],
+    "tags": [
+      "python",
+      "typescript",
+      "html",
+      "css",
+      "fastapi",
+      "react",
+      "vite",
+      "vercel",
+      "railway",
+      "x-api-v2",
+      "anthropic-claude-api",
+      "perplexity-sonar-api",
+      "semantic-sonar-api",
+      "deepgram-api",
+      "httpx",
+      "pydantic",
+      "networkx",
+      "react-router-dom"
+    ],
+    "winner": false,
+    "like_count": 2,
+    "_query": "claude opus 4.6"
+  },
+  {
+    "name": "Gitty.ai",
+    "tagline": "Leetcode is Dead. Get paid to practice on real codebases. Get hired by shipping PRs.",
+    "url": "https://devpost.com/software/gitty-ai",
+    "slug": "gitty-ai",
+    "members": [
+      "ethanv"
+    ],
+    "tags": [
+      "python",
+      "fastapi",
+      "claude",
+      "github",
+      "rest",
+      "browserbase",
+      "react",
+      "typescript",
+      "vite",
+      "firebase",
+      "tailwind",
+      "vercel",
+      "graphql",
+      "render"
+    ],
+    "winner": false,
+    "like_count": 0,
+    "_query": "claude opus 4.6"
+  },
+  {
+    "name": "BeeWork",
+    "tagline": " A Browser Agent Hive that Builds Knowledge Bases",
+    "url": "https://devpost.com/software/beework",
+    "slug": "beework",
+    "members": [
+      "alezander9",
+      "kchandra423"
+    ],
+    "tags": [
+      "python",
+      "opencode",
+      "modal",
+      "gemini",
+      "claude",
+      "browser-use",
+      "laminar",
+      "parallel",
+      "nvidia",
+      "cloudflare",
+      "anthropic",
+      "nemotron",
+      "vercel",
+      "openai"
+    ],
+    "winner": false,
+    "like_count": 4,
+    "_query": "claude opus 4.6"
+  },
+  {
+    "name": "LANTERN",
+    "tagline": "LANTERN fuses genomic, epidemiological, and geospatial signals through self-improving AI agents to detect pandemic threats weeks before traditional systems and gets smarter.",
+    "url": "https://devpost.com/software/lantern-mg96kw",
+    "slug": "lantern-mg96kw",
+    "members": [
+      "mouazmoayad10",
+      "mabaan",
+      "eyadwadih",
+      "b00094983"
+    ],
+    "tags": [
+      "python",
+      "javascript",
+      "amazon-web-services",
+      "bedrock",
+      "claude",
+      "opus",
+      "4.6",
+      "amazon",
+      "titan",
+      "embeddings",
+      "v2",
+      "clickhouse",
+      "fastapi",
+      "react",
+      "elevenlabs",
+      "langgraph",
+      "node.js",
+      "tailwind",
+      "css",
+      "docker",
+      "ncbi",
+      "genbank",
+      "who",
+      "disease",
+      "outbreak",
+      "news",
+      "promed"
+    ],
+    "winner": false,
+    "like_count": 0,
+    "_query": "claude opus 4.6"
+  },
+  {
+    "name": "FPL Wrapped Chat",
+    "tagline": "The world's first \"chat with your data\" for millions of Fantasy Premier League players worldwide that turns boring statistics into personalizable and engaging storylines.",
+    "url": "https://devpost.com/software/fpl-wrapped-chat",
+    "slug": "fpl-wrapped-chat",
+    "members": [
+      "allardqjy"
+    ],
+    "tags": [
+      "elasticsearch",
+      "esql",
+      "elastic",
+      "elastic-agent-builder",
+      "typescript",
+      "node.js",
+      "vega-lite"
+    ],
+    "winner": false,
+    "like_count": 0,
+    "_query": "claude opus 4.6"
+  },
+  {
+    "name": "Adventurer's Gambit",
+    "tagline": "A 3D chess game where adventurers clash with Skeleton Warriors, and an AI mentor powered by Amazon Nova 2 Lite teaches you to play.",
+    "url": "https://devpost.com/software/adventurer-s-gambit",
+    "slug": "adventurer-s-gambit",
+    "members": [
+      "karthiks3000"
+    ],
+    "tags": [
+      "typescript",
+      "lambda",
+      "amazon-cloudfront-cdn",
+      "bedrock",
+      "nova",
+      "amazon-dynamodb",
+      "react",
+      "three.js"
+    ],
+    "winner": false,
+    "like_count": 0,
+    "_query": "claude opus 4.6"
+  },
+  {
+    "name": "FixPalAI",
+    "tagline": "\"Your AI copilot for field service repairs - AI-powered diagnostic support and step-by-step repair instructions for plumbing, electrical, HVAC, and carpentry issues - right when you need it most.\"\r\n",
+    "url": "https://devpost.com/software/fixpalai",
+    "slug": "fixpalai",
+    "members": [
+      "vv2411",
+      "kmn2161",
+      "ss7561"
+    ],
+    "tags": [
+      "python",
+      "langchain",
+      "gemini",
+      "chromadb",
+      "streamlit",
+      "react",
+      "tailwind",
+      "huggingface",
+      "dedalus"
+    ],
+    "winner": false,
+    "like_count": 10,
+    "_query": "claude opus 4.6"
+  },
+  {
+    "name": "HAVEN ",
+    "tagline": "FIND HOME ON THE ROAD.",
+    "url": "https://devpost.com/software/path-25fs8o",
+    "slug": "path-25fs8o",
+    "members": [
+      "cauthen-jack"
+    ],
+    "tags": [
+      "stack:-react-native-/-expo-sdk-52",
+      "supabase-(postgresql-+-realtime-+-storage-+-edge-functions)",
+      "revenuecat",
+      "nativewind",
+      "zustand"
+    ],
+    "winner": true,
+    "like_count": 2,
+    "_query": "claude opus 4.6"
+  },
+  {
+    "name": "Joe Speaking",
+    "tagline": "Real-time English standardized speaking test simulator. Just speak naturally, get real-world feedback. Full lifecycle beyond the test. 100x cheaper, fully personalized. By a learner, for learners.",
+    "url": "https://devpost.com/software/joe-speaking",
+    "slug": "joe-speaking",
+    "members": [
+      "hubeiqiao"
+    ],
+    "tags": [
+      "languages-&-frameworks-typescript-next.js-14-(app-router)-react-18-tailwind-css-framer-motion-###-ai-&-machine-learning-google-gemini-2.5-/-3-(`@google/generative-ai`",
+      "google/genai`",
+      "ai-sdk/google`)-gemini-live-api-gemini-structured-output-gemini-function-calling-vercel-ai-sdk-transformers.js-(hugging-face)-assemblyai-###-cloud-services-&-infrastructure-supabase-(postgresql",
+      "auth",
+      "google-gemini",
+      "gemini-live-api",
+      "gemini-structured-output",
+      "gemini-function-calling",
+      "vercel-ai-sdk",
+      "transformers.js",
+      "assemblyai",
+      "typescript",
+      "next.js-14",
+      "react",
+      "tailwind-css",
+      "framer-motion",
+      "supabase",
+      "vercel",
+      "backblaze-b2",
+      "cloudflare-workers",
+      "upstash-redis",
+      "stripe",
+      "sentry",
+      "posthog",
+      "zustand",
+      "three.js",
+      "chart.js",
+      "indexeddb",
+      "ffmpeg-wasm",
+      "zod",
+      "google-antigravity",
+      "claude-code",
+      "vitest",
+      "playwright"
+    ],
+    "winner": false,
+    "like_count": 1,
+    "_query": "claude opus 4.6"
+  },
+  {
+    "name": "Coach AI",
+    "tagline": "Premium AI coaching in your pocket. Browse, create, and share coaches. Get guidance in seconds.",
+    "url": "https://devpost.com/software/coachai-3hcd8y",
+    "slug": "coachai-3hcd8y",
+    "members": [
+      "timaredoc79"
+    ],
+    "tags": [
+      "kotlin",
+      "jetpack-compose",
+      "material3",
+      "golang",
+      "grpc",
+      "connect-rpc",
+      "protobuf",
+      "buf",
+      "sqlite",
+      "openai",
+      "gpt-4o-mini",
+      "revenuecat",
+      "aws-ec2",
+      "terraform",
+      "hilt",
+      "dagger",
+      "coroutines",
+      "playwright",
+      "maestro",
+      "cursor",
+      "claude",
+      "monorepo"
+    ],
+    "winner": false,
+    "like_count": 0,
+    "_query": "claude opus 4.6"
+  },
+  {
+    "name": "optimize.ai",
+    "tagline": "Add your prompt, pick your priority, and our 5-agent pipeline rewrites it so cheap models match premium quality — saving you 60-90% on API costs.",
+    "url": "https://devpost.com/software/optimize-ai",
+    "slug": "optimize-ai",
+    "members": [
+      "leom5",
+      "pazatek",
+      "gun0o"
+    ],
+    "tags": [
+      "next.js",
+      "react",
+      "typescript",
+      "tailwind-css",
+      "keywords-ai",
+      "openai-sdk",
+      "supabase",
+      "vercel",
+      "keywordsai"
+    ],
+    "winner": false,
+    "like_count": 4,
+    "_query": "claude opus 4.6"
+  },
+  {
+    "name": "LabScout",
+    "tagline": "Students don't know where to find research. LabScout solves this by finding relevant UIUC labs matched against student resumes and sending personalized cold outreach emails to land those opportunities",
+    "url": "https://devpost.com/software/labscout",
+    "slug": "labscout",
+    "members": [
+      "nainamkumar",
+      "ssdear",
+      "classica314"
+    ],
+    "tags": [
+      "next.js",
+      "react",
+      "typescript",
+      "tailwind",
+      "postcss",
+      "autoprefixer",
+      "supabase",
+      "postgresql",
+      "openai",
+      "node.js",
+      "pdf-parse",
+      "lucide-react",
+      "react-dropzone",
+      "eslint"
+    ],
+    "winner": false,
+    "like_count": 1,
+    "_query": "claude opus 4.6"
+  },
+  {
+    "name": "DevFlow",
+    "tagline": "DevFlow is a plugin for the Logitech MX Creative Console that integrates with Cursor IDE and VS Code. It brings AI assistance and workflow automation directly to developers' fingertips.",
+    "url": "https://devpost.com/software/devflow-1lf7b4",
+    "slug": "devflow-1lf7b4",
+    "members": [
+      "tandivina"
+    ],
+    "tags": [
+      "stitch",
+      "kiro",
+      "gemini"
+    ],
+    "winner": false,
+    "like_count": 0,
+    "_query": "claude opus 4.6"
+  },
+  {
+    "name": "BroadVail Finance Track - 2026 Rice Datathon",
+    "tagline": "Predict RevPAR (Revenue per Available Unit) growth for properties and identify how neighborhood amenities and preferences shifted between pre-COVID (2015-2020) and post-COVID (2022-2025) periods.\r\n",
+    "url": "https://devpost.com/software/faaris-submisson-broadvail",
+    "slug": "faaris-submisson-broadvail",
+    "members": [
+      "faarisrice-creator"
+    ],
+    "tags": [
+      "claude",
+      "opus",
+      "vsc",
+      "python"
+    ],
+    "winner": false,
+    "like_count": 0,
+    "_query": "claude opus 4.6"
+  },
+  {
+    "name": "KarmaCoreOS",
+    "tagline": "A unified, omniscient moderation framework that gamifies subreddit health, visualizes threats via a stunning dashboard, and neutralizes bad actors autonomously.",
+    "url": "https://devpost.com/software/karmacoreos",
+    "slug": "karmacoreos",
+    "members": [
+      "futureodd9000"
+    ],
+    "tags": [
+      "claude",
+      "opus4.6",
+      "antigravity",
+      "gemini3.1",
+      "geminipro",
+      "typescript",
+      "redis"
+    ],
+    "winner": false,
+    "like_count": 0,
+    "_query": "claude opus"
+  },
+  {
+    "name": "Qobi",
+    "tagline": "Qobi is the AI co-pilot for ALU students — reads your inbox + Canvas, catches what's buried, and shows how one slip ripples through your degree, money, standing, and visa. Calm, never alarmist.",
+    "url": "https://devpost.com/software/qobi-7o604h",
+    "slug": "qobi-7o604h",
+    "members": [
+      "t-taiwo",
+      "r-otieno"
+    ],
+    "tags": [
+      "next-js",
+      "express-js",
+      "claude",
+      "flutter",
+      "redis",
+      "resend-js",
+      "supabase",
+      "google-cloud"
+    ],
+    "winner": false,
+    "like_count": 24,
+    "_query": "claude opus"
+  },
+  {
+    "name": "mesh by mesh",
+    "tagline": "Our project is a Blender addon that converts 2D imgs into segmented 3D meshes to then provide detailed instructions to tutor users into recreating a subject with the help AI to navigate the UI. ",
+    "url": "https://devpost.com/software/mesh-by-mesh-i3onlz",
+    "slug": "mesh-by-mesh-i3onlz",
+    "members": [
+      "walthuken"
+    ],
+    "tags": [
+      "python",
+      "blender-4.2",
+      "bpy",
+      "bmesh",
+      "pillow",
+      "tencent-hunyuan3d-2",
+      "htm26-stirnix",
+      "huggingface-spaces",
+      "gradio-client",
+      "anthropic-claude-api",
+      "google-gemini-api",
+      "rest",
+      "htm26"
+    ],
+    "winner": false,
+    "like_count": 3,
+    "_query": "claude opus"
+  },
+  {
+    "name": "PSA Posture Sequence Analysis",
+    "tagline": "Measure what your language model is doing — from the outside.\r\nDeterministic metrics, posture analysis, and multi-agent risk detection. No access to weights required.",
+    "url": "https://devpost.com/software/psa-posture-sequence-analysis",
+    "slug": "psa-posture-sequence-analysis",
+    "members": [
+      "siliconpsychelabs"
+    ],
+    "tags": [
+      "python",
+      "api",
+      "postgresql",
+      "html",
+      "javascript",
+      "css"
+    ],
+    "winner": false,
+    "like_count": 0,
+    "_query": "claude opus"
+  },
+  {
+    "name": "Prophet AI",
+    "tagline": "AI-Prophet is a forecasting engine built to predict multi-outcome real-world events using strict temporal debiasing, powered by adaptive multi-class Platt scaling and disagreement-aware market priors.",
+    "url": "https://devpost.com/software/prophet-ai",
+    "slug": "prophet-ai",
+    "members": [
+      "gagandolleshwar05",
+      "akshayg1039",
+      "romidi80",
+      "praneethmallupalli2027"
+    ],
+    "tags": [
+      "fastapi",
+      "multi-agent",
+      "ai",
+      "python"
+    ],
+    "winner": false,
+    "like_count": 0,
+    "_query": "claude opus"
+  },
+  {
+    "name": "The Council",
+    "tagline": "Stop relying on single-prompt AI echo chambers. Bring your business concepts to a live panel of five clashing AI specialists and get a brutal, data-driven final verdict.",
+    "url": "https://devpost.com/software/the-council-0n6dhp",
+    "slug": "the-council-0n6dhp",
+    "members": [
+      "sansh0214"
+    ],
+    "tags": [
+      "python",
+      "fastapi",
+      "anthropic-claude-api",
+      "websockets",
+      "next.js-14",
+      "typescript",
+      "tailwind-css",
+      "railway",
+      "render",
+      "vercel"
+    ],
+    "winner": false,
+    "like_count": 0,
+    "_query": "claude opus"
+  },
+  {
+    "name": "Gauntlet - Go safe or go home",
+    "tagline": "GAUNTLET sends adversarial AI's to attack your AI service agent with multi-turn fraud. \r\nEvery breach becomes a regression test in Test Manager, OWASP-tagged and AVSS-scored. \r\nNative to UiPath.\r\n",
+    "url": "https://devpost.com/software/gauntlet-go-safe-or-go-home",
+    "slug": "gauntlet-go-safe-or-go-home",
+    "members": [
+      "tim-dries"
+    ],
+    "tags": [
+      "python",
+      "typescript",
+      "javascript",
+      "react",
+      "vite",
+      "langgraph",
+      "anthropic-claude",
+      "claude-opus-4.7",
+      "claude-code",
+      "uipath",
+      "uipath-cloud",
+      "uipath-maestro",
+      "uipath-case",
+      "uipath-flow",
+      "uipath-test-manager",
+      "uipath-action-center",
+      "uipath-coded-apps",
+      "uipath-orchestrator",
+      "uipath-typescript-sdk",
+      "uip-cli",
+      "owasp-llm-top-10"
+    ],
+    "winner": false,
+    "like_count": 0,
+    "_query": "claude opus"
+  },
+  {
+    "name": "BLUEPRINT — your repos, decoded into your next startup.",
+    "tagline": "Drop a GitHub. We read every repo, commit, and signal — and tell you the company you're already, slowly, accidentally building. Plus Founder Match and Team Scan.\r\n",
+    "url": "https://devpost.com/software/blueprint-your-repos-decoded-into-your-next-startup",
+    "slug": "blueprint-your-repos-decoded-into-your-next-startup",
+    "members": [
+      "beto-llanos"
+    ],
+    "tags": [
+      "next.js",
+      "react",
+      "typescript",
+      "tailwindcss",
+      "fraunces",
+      "framer-motion",
+      "anthropic",
+      "claude-sonnet-4.6",
+      "neo4j",
+      "github-api",
+      "vercel-og",
+      "railway"
+    ],
+    "winner": false,
+    "like_count": 1,
+    "_query": "claude opus"
+  },
+  {
+    "name": "GhostWrite",
+    "tagline": "Privacy-first proof-of-creation. AI fingerprints your documents, seals hashes on the Midnight blockchain, and proves authorship without ever exposing your original content.",
+    "url": "https://devpost.com/software/ghostwrite",
+    "slug": "ghostwrite",
+    "members": [
+      "saurabhkohli628",
+      "robinrajratn",
+      "deepika84768"
+    ],
+    "tags": [
+      "next.js",
+      "typescript",
+      "tailwind-css",
+      "supabase",
+      "groq",
+      "midnight-blockchain",
+      "vercel",
+      "html5"
+    ],
+    "winner": false,
+    "like_count": 1,
+    "_query": "claude opus"
+  },
+  {
+    "name": "Bibi",
+    "tagline": "Bibi turns the receipt into a private feedback channel — guests tap what they ordered, rate it, get a discount by text, and the owner gets an AI weekly write-up that names the dish, not the vibe.",
+    "url": "https://devpost.com/software/bibi-y8n4mr",
+    "slug": "bibi-y8n4mr",
+    "members": [
+      "mariusgenton"
+    ],
+    "tags": [
+      "next.js",
+      "tailwind",
+      "supabase",
+      "twilio",
+      "vercel"
+    ],
+    "winner": false,
+    "like_count": 0,
+    "_query": "claude opus"
+  },
+  {
+    "name": "Aion ",
+    "tagline": "AI for the next five billion: Universal access to health and education\r\n",
+    "url": "https://devpost.com/software/aion-v64joe",
+    "slug": "aion-v64joe",
+    "members": [
+      "philiprmocanu-cell",
+      "zulu-dev"
+    ],
+    "tags": [
+      "claude",
+      "vultr",
+      "elevenlabs",
+      "antigravity",
+      "cursor",
+      "github",
+      "gemini",
+      "sms",
+      "nokia",
+      "twilio"
+    ],
+    "winner": false,
+    "like_count": 2,
+    "_query": "claude opus"
+  },
+  {
+    "name": "Information-Box Bargaining",
+    "tagline": "A sealed room where AI proxies negotiate, and only the subset facts both human aprties approve ever leave it allowing for collaborations to occur.",
+    "url": "https://devpost.com/software/information-box-bargaining",
+    "slug": "information-box-bargaining",
+    "members": [
+      "aellahib",
+      "palakg28"
+    ],
+    "tags": [
+      "fastapi"
+    ],
+    "winner": false,
+    "like_count": 0,
+    "_query": "claude opus"
+  },
+  {
+    "name": "Sankofa Mod",
+    "tagline": "Real-time mod coordination layer for Reddit subreddits, built on Devvit Web.",
+    "url": "https://devpost.com/software/sankofa-mod",
+    "slug": "sankofa-mod",
+    "members": [
+      "smith-adams0019"
+    ],
+    "tags": [
+      "devvit",
+      "reddit",
+      "typescript"
+    ],
+    "winner": false,
+    "like_count": 0,
+    "_query": "claude opus"
+  },
+  {
+    "name": "PurSuit",
+    "tagline": "PurSuit is a TikTok-style app featuring a feed of career spotlight posts for people still figuring out their careers.",
+    "url": "https://devpost.com/software/pursuit-b9tl8v",
+    "slug": "pursuit-b9tl8v",
+    "members": [
+      "aaronsoekiatno",
+      "amanpalanati"
+    ],
+    "tags": [
+      "typescript",
+      "supabase",
+      "react-native",
+      "claude",
+      "expo.io"
+    ],
+    "winner": false,
+    "like_count": 0,
+    "_query": "claude opus"
+  },
+  {
+    "name": "H1B Lens",
+    "tagline": "it ranks job opportunities by visa sponsorship likelihood.",
+    "url": "https://devpost.com/software/h1b-lens",
+    "slug": "h1b-lens",
+    "members": [
+      "n3il-kb",
+      "dchew175"
+    ],
+    "tags": [
+      "tailwind",
+      "sqlite",
+      "svelte"
+    ],
+    "winner": false,
+    "like_count": 0,
+    "_query": "claude opus"
+  },
+  {
+    "name": "Cold Reach",
+    "tagline": "From \"I should reach out\" to \"email sent\" in three swipes.",
+    "url": "https://devpost.com/software/cold-reach",
+    "slug": "cold-reach",
+    "members": [
+      "sashaskind",
+      "yanggary2388",
+      "15brandon51"
+    ],
+    "tags": [
+      "typescript",
+      "next.js",
+      "react",
+      "vercel-ai-sdk",
+      "vercel-ai-gateway",
+      "next-auth",
+      "google-oauth",
+      "vercel-kv",
+      "upstash-redis",
+      "node.js",
+      "vercel",
+      "shadcn-ui",
+      "v0"
+    ],
+    "winner": false,
+    "like_count": 0,
+    "_query": "claude opus"
+  },
+  {
+    "name": "Elon",
+    "tagline": "Your friendly AI marketing teammate, learns your brand, drafts tomorrow's posts tonight, and ships to IG, TikTok, and Facebook while you sip coffee and tap ✓.",
+    "url": "https://devpost.com/software/elon-mtkelx",
+    "slug": "elon-mtkelx",
+    "members": [
+      "sobhanranjbar2",
+      "armita-srad",
+      "saram85"
+    ],
+    "tags": [
+      "python",
+      "typescript",
+      "sql",
+      "bash",
+      "fastapi",
+      "celery",
+      "next.js",
+      "react",
+      "tailwind",
+      "framer",
+      "pydantic",
+      "sqlalchemy",
+      "alembic",
+      "playwright",
+      "libsodium",
+      "claude",
+      "codex",
+      "postgresql",
+      "pgvector",
+      "redis",
+      "minio",
+      "meta",
+      "telegram",
+      "whatsapp",
+      "tiktok",
+      "docker"
+    ],
+    "winner": false,
+    "like_count": 2,
+    "_query": "claude opus"
+  },
+  {
+    "name": "HoloTrade: AI-Powered Financial Learning Platform",
+    "tagline": "HoloTrade Mentor pairs real live stock charts with a Claude-powered AI mentor that explains what beginners are seeing — in plain English, never as advice.",
+    "url": "https://devpost.com/software/coming-soon-zavx9b",
+    "slug": "coming-soon-zavx9b",
+    "members": [
+      "ss5379",
+      "vdd2183",
+      "krkr1704"
+    ],
+    "tags": [
+      "claude",
+      "antropic",
+      "typescript",
+      "python",
+      "api"
+    ],
+    "winner": false,
+    "like_count": 0,
+    "_query": "claude opus"
+  },
+  {
+    "name": "Heirloom",
+    "tagline": "A living dictionary for dying family languages. Humans create. AI preserves.\r\n\r\n",
+    "url": "https://devpost.com/software/heirloom-jvcg3a",
+    "slug": "heirloom-jvcg3a",
+    "members": [
+      "dj287",
+      "eds26",
+      "mramos822",
+      "danijeun",
+      "therickmj03"
+    ],
+    "tags": [
+      "python",
+      "react",
+      "vite",
+      "typescript",
+      "fastapi",
+      "postgresql"
+    ],
+    "winner": false,
+    "like_count": 5,
+    "_query": "claude opus"
+  },
+  {
+    "name": "BelBusRadar",
+    "tagline": "One app. Every bus. Every hazard. A safer commute for Belfast",
+    "url": "https://devpost.com/software/belbusradar",
+    "slug": "belbusradar",
+    "members": [
+      "toweringpluto",
+      "emmamirwhite",
+      "bios-folate5c",
+      "kthackett8804"
+    ],
+    "tags": [
+      "react",
+      "javascript",
+      "node.js",
+      "express.js",
+      "vite",
+      "tailwind-css",
+      "mapbox-gl-js",
+      "react-map-gl",
+      "react-router",
+      "translink-efa-api",
+      "uk-police-api",
+      "papaparse",
+      "fast-xml-parser",
+      "proj4",
+      "canvas-api",
+      "figma-ai",
+      "claude-opus",
+      "html5",
+      "css3"
+    ],
+    "winner": false,
+    "like_count": 1,
+    "_query": "claude opus"
+  },
+  {
+    "name": "Silkpay",
+    "tagline": "We allow african merchants to trade without borders.",
+    "url": "https://devpost.com/software/silkpay",
+    "slug": "silkpay",
+    "members": [
+      "kepler56"
+    ],
+    "tags": [
+      "solidity",
+      "supabase",
+      "nextjs",
+      "vercel",
+      "fastapi"
+    ],
+    "winner": true,
+    "like_count": 0,
+    "_query": "claude opus"
+  },
+  {
+    "name": "J.A.R.V.I.S",
+    "tagline": "Jarvis is a peer-to-peer meeting room with a built-in voice AI. No servers, no surveillance, just your laptops talking directly to each other and an AI peer that lives in the room with you.",
+    "url": "https://devpost.com/software/j-a-r-v-i-s-0rkso4",
+    "slug": "j-a-r-v-i-s-0rkso4",
+    "members": [
+      "devansh88karia"
+    ],
+    "tags": [
+      "pear-runtime",
+      "holepunch",
+      "hyperswarm",
+      "hypercore",
+      "autobase",
+      "corestore",
+      "hyperdht",
+      "electron",
+      "javascript",
+      "html",
+      "css",
+      "web-audio-api",
+      "mediarecorder",
+      "websockets",
+      "cloudflare-tunnel",
+      "claude",
+      "gemma",
+      "elevenlabs",
+      "web-speech-api",
+      "node.js"
+    ],
+    "winner": false,
+    "like_count": 1,
+    "_query": "claude opus"
+  },
+  {
+    "name": "Inner Circle",
+    "tagline": "A living constellation of the people who matter. Agentically helps you maintain your social connections through emails, calendars, a dynamic network view, and expert therapy capabilities in one place.",
+    "url": "https://devpost.com/software/inner-circle-tqavge",
+    "slug": "inner-circle-tqavge",
+    "members": [
+      "lxiao1818",
+      "nathansocollege",
+      "ethjin8"
+    ],
+    "tags": [
+      "javascript",
+      "css",
+      "html",
+      "node.js",
+      "react",
+      "vite",
+      "gemini",
+      "claude",
+      "firebase",
+      "cloudinary"
+    ],
+    "winner": false,
+    "like_count": 4,
+    "_query": "claude opus"
+  },
+  {
+    "name": "AlterEgo",
+    "tagline": "AlterEgo is a personal future simulator. Tell it about yourself today, it walks the years forward, simulating your choices and where they take you. Then it lets you talk to yourself in the future.",
+    "url": "https://devpost.com/software/alterego-8uke34",
+    "slug": "alterego-8uke34",
+    "members": [
+      "kelvinpeng2004",
+      "blee300",
+      "ascent817",
+      "ryjchen24"
+    ],
+    "tags": [
+      "python",
+      "nextjs",
+      "elevenlabs",
+      "anthropic"
+    ],
+    "winner": false,
+    "like_count": 4,
+    "_query": "claude opus"
+  },
+  {
+    "name": "Prism",
+    "tagline": "Weeks of regulatory review, compressed into minutes of cited answers.",
+    "url": "https://devpost.com/software/prism-t5d41u",
+    "slug": "prism-t5d41u",
+    "members": [
+      "mishazhem500",
+      "erikreiz",
+      "leonid-margulis-03",
+      "elkopasto"
+    ],
+    "tags": [
+      "react",
+      "typescript",
+      "vite",
+      "tailwind-css",
+      "shadcn/ui",
+      "java",
+      "spring-boot",
+      "aws-(lambda",
+      "dynamodb",
+      "s3",
+      "api-gateway)",
+      "anthropic-claude-api",
+      "amazon-web-services",
+      "antropic"
+    ],
+    "winner": false,
+    "like_count": 7,
+    "_query": "claude opus"
+  },
+  {
+    "name": "Second",
+    "tagline": "Second is the voice that shows up before regret does.",
+    "url": "https://devpost.com/software/second-6s7ore",
+    "slug": "second-6s7ore",
+    "members": [
+      "melissapuerto",
+      "jrleonchumpitaz"
+    ],
+    "tags": [
+      "claude",
+      "javascript",
+      "bunq",
+      "amazon-web-services"
+    ],
+    "winner": false,
+    "like_count": 47,
+    "_query": "claude opus"
+  },
+  {
+    "name": "BunqSplit",
+    "tagline": "BunqSplit makes splitting dinner bills seamless.",
+    "url": "https://devpost.com/software/bunqsplit",
+    "slug": "bunqsplit",
+    "members": [
+      "yobylgu",
+      "mjiang",
+      "mimi613",
+      "ddanielesmz"
+    ],
+    "tags": [
+      "python",
+      "next.js",
+      "typescript",
+      "react",
+      "tailwind",
+      "fastapi",
+      "amazon-web-services",
+      "claude"
+    ],
+    "winner": false,
+    "like_count": 7,
+    "_query": "claude opus"
+  },
+  {
+    "name": "GuardianAI",
+    "tagline": "Talk to your bank, not an app. Our AI avatar manages your bunq account through simple conversation. No menus, no mistakes - just effortless, secure banking. ",
+    "url": "https://devpost.com/software/guardianai-xgqy16",
+    "slug": "guardianai-xgqy16",
+    "members": [
+      "ateekshluthra",
+      "kunal10",
+      "gonnzalofr",
+      "intray-sri"
+    ],
+    "tags": [
+      "bunq-sdk",
+      "python",
+      "react",
+      "claude"
+    ],
+    "winner": false,
+    "like_count": 15,
+    "_query": "claude opus"
+  },
+  {
+    "name": "OpenFinn - Hey bunq!",
+    "tagline": "Finn was already bunq's voice. We gave him hands, ears and eyes. OpenFinn is a multi-modal agent in your go-to messaging app. Say \"Hey bunq\" and it moves money, reads receipts, files real claims. Live",
+    "url": "https://devpost.com/software/openfinn-hey-bunq",
+    "slug": "openfinn-hey-bunq",
+    "members": [
+      "akramchakrouni",
+      "adamelhaddouchi03-1"
+    ],
+    "tags": [
+      "python",
+      "bunq-api",
+      "twilio",
+      "docker",
+      "claude-agent-sdk",
+      "claude-computer-use",
+      "qdrant",
+      "fly.io",
+      "supabase",
+      "openai",
+      "sentence-transformers"
+    ],
+    "winner": false,
+    "like_count": 3,
+    "_query": "claude opus"
+  },
+  {
+    "name": "Root",
+    "tagline": "Root LLM: 50-70% cheaper than Claude Opus and OpenAI GPT-4.\r\nSame outcomes.",
+    "url": "https://devpost.com/software/root-tyoag7",
+    "slug": "root-tyoag7",
+    "members": [
+      "akdoracelepoglu"
+    ],
+    "tags": [
+      "replit",
+      "claude",
+      "grok",
+      "openai",
+      "openrouter"
+    ],
+    "winner": false,
+    "like_count": 0,
+    "_query": "claude opus"
+  },
+  {
+    "name": "Cognesia",
+    "tagline": "I persist in memory forever. In parallel. - MCP\r\n- skills\r\n- CLI\r\n- REST API\r\n- GraphQL API\r\n- Persistent memory forever",
+    "url": "https://devpost.com/software/cognesia",
+    "slug": "cognesia",
+    "members": [
+      "mukul08",
+      "avispute",
+      "kkamali595",
+      "luisrc1822"
+    ],
+    "tags": [
+      "python",
+      "react",
+      "typescript",
+      "javascript",
+      "html",
+      "css",
+      "obsidian",
+      "markdown",
+      "files",
+      "claude",
+      "code",
+      "codex",
+      "postgresql",
+      "neon",
+      "neo4j",
+      "kuzu",
+      "github"
+    ],
+    "winner": false,
+    "like_count": 0,
+    "_query": "claude opus"
+  },
+  {
+    "name": "Terp4you",
+    "tagline": "The whole university, one iMessage away. terp4you texts back, picks up your calls, and knows every UMD deadline, building, and office — no app to install.",
+    "url": "https://devpost.com/software/terp4you",
+    "slug": "terp4you",
+    "members": [
+      "gautamagarwal563"
+    ],
+    "tags": [
+      "python",
+      "supabase"
+    ],
+    "winner": false,
+    "like_count": 0,
+    "_query": "claude opus"
+  },
+  {
+    "name": "Splitter",
+    "tagline": "Scan. Speak. Split. Done",
+    "url": "https://devpost.com/software/amazingproject-zo8rsq",
+    "slug": "amazingproject-zo8rsq",
+    "members": [
+      "dorukuz",
+      "exiiiiim",
+      "as-potovskiy",
+      "ozanguler2001"
+    ],
+    "tags": [
+      "node.js",
+      "python",
+      "typescript",
+      "react",
+      "vite",
+      "tailwind-css",
+      "framer-motion",
+      "fastapi",
+      "claude-opus4.6",
+      "aws-bedrock",
+      "uvicorn",
+      "aws-transcribe",
+      "bunq-api",
+      "amazon-polly",
+      "remotion"
+    ],
+    "winner": false,
+    "like_count": 4,
+    "_query": "claude opus"
+  },
+  {
+    "name": "CURRENT",
+    "tagline": "CURRENT turns articles from the Phillipian into a personalized, dynamic feed that people actually read. It makes campus news finally fun to follow, so students stay informed and become more connected.",
+    "url": "https://devpost.com/software/new-phillipian-mobile-app",
+    "slug": "new-phillipian-mobile-app",
+    "members": [
+      "sophia-tatar",
+      "felixmjbret",
+      "i-v-iv"
+    ],
+    "tags": [
+      "swift",
+      "chatgpt",
+      "cursor",
+      "claude",
+      "xcode",
+      "netlify"
+    ],
+    "winner": false,
+    "like_count": 0,
+    "_query": "claude opus"
+  },
+  {
+    "name": "MiDerechoApp",
+    "tagline": "\"MiDerechoApp\" helps workers understand their FMLA rights in plain English and Spanish - so they never lose their job because they didn't know they were protected.",
+    "url": "https://devpost.com/software/miderechoapp",
+    "slug": "miderechoapp",
+    "members": [
+      "nathanielsal86",
+      "vayala13",
+      "estebandayala76"
+    ],
+    "tags": [
+      "react-native",
+      "claude",
+      "omni",
+      "codex",
+      "openai",
+      "gpt5.2",
+      "opus4.6",
+      "expodev",
+      "typescript",
+      "claudecode",
+      "anthropic"
+    ],
+    "winner": false,
+    "like_count": 1,
+    "_query": "claude opus"
+  },
+  {
+    "name": "Cloud Weaver",
+    "tagline": "Design, visualize, and deploy AWS architectures using natural language. Cloud Weaver uses AI to turn plain English into live cloud infrastructure in seconds.",
+    "url": "https://devpost.com/software/cloud-weaver",
+    "slug": "cloud-weaver",
+    "members": [
+      "drhhhh",
+      "elcosas",
+      "lbjabujab58",
+      "seansan06"
+    ],
+    "tags": [
+      "react",
+      "vite",
+      "javascript",
+      "python",
+      "amazon-web-services",
+      "aws-lambda",
+      "amazon-api-gateway",
+      "amazon-bedrock",
+      "anthropic-claude",
+      "mermaid-js",
+      "aws-cloudformation",
+      "css"
+    ],
+    "winner": false,
+    "like_count": 4,
+    "_query": "claude opus"
+  },
+  {
+    "name": "reAgent",
+    "tagline": "A visual IDE for designing and learning multi-agent AI swarms, backed by mechanistic interpretability research to optimize agent-2-agent protocol.",
+    "url": "https://devpost.com/software/reagent",
+    "slug": "reagent",
+    "members": [
+      "mehek-niwas",
+      "advikcollege1979",
+      "danielz0",
+      "ap2101"
+    ],
+    "tags": [
+      "python"
+    ],
+    "winner": true,
+    "like_count": 4,
+    "_query": "claude opus"
+  },
+  {
+    "name": "Enforcer",
+    "tagline": "Distraction is stealing lives, one working session at a time.\r\n\r\n",
+    "url": "https://devpost.com/software/enforcer-esv7lh",
+    "slug": "enforcer-esv7lh",
+    "members": [
+      "kimixu1314",
+      "kevin-aiwen-wang",
+      "noahzh52",
+      "corpuscaeleste"
+    ],
+    "tags": [
+      "tauri",
+      "gemma",
+      "api",
+      "ai"
+    ],
+    "winner": false,
+    "like_count": 2,
+    "_query": "claude opus"
+  },
+  {
+    "name": "HTPML",
+    "tagline": "YouTube trend insights",
+    "url": "https://devpost.com/software/htpml",
+    "slug": "htpml",
+    "members": [
+      "prak777-code",
+      "ziyanpatel",
+      "beastimmatam",
+      "moonyka99-oss"
+    ],
+    "tags": [
+      "html",
+      "css",
+      "javascript",
+      "visual-studio",
+      "claude"
+    ],
+    "winner": false,
+    "like_count": 0,
+    "_query": "claude opus"
+  },
+  {
+    "name": "Symposium",
+    "tagline": "Multi-agent engine that discovers what LLMs get wrong, researches the real answer from live docs and code, solves it in real-time, and exports corrections as training data to train better models.",
+    "url": "https://devpost.com/software/symposium-aqrghx",
+    "slug": "symposium-aqrghx",
+    "members": [
+      "samsiavoshian2009"
+    ],
+    "tags": [
+      "nia",
+      "mcp",
+      "typescript",
+      "sse",
+      "nia-sdk",
+      "nia-oracle",
+      "nia-tracer",
+      "nia-context-api",
+      "nia-advisor"
+    ],
+    "winner": false,
+    "like_count": 2,
+    "_query": "claude opus"
+  },
+  {
+    "name": "Campus Crew",
+    "tagline": "AI chatbots don't read your policies. Campus Crew turns your documents into AI agents that enforce the rules, cite the clauses, and catch violations before they go to print",
+    "url": "https://devpost.com/software/skill-town",
+    "slug": "skill-town",
+    "members": [
+      "lwt-641",
+      "rx2281",
+      "ea2911"
+    ],
+    "tags": [
+      "claude"
+    ],
+    "winner": false,
+    "like_count": 0,
+    "_query": "claude opus"
+  },
+  {
+    "name": "ReRoot",
+    "tagline": "ReRoot is a tobacco cessation app that uses honest daily check-ins, 25 customalized in-app mental activities, Apple Health &amp; Fitness Integration, and a context-aware AI companion to help smokers quit!",
+    "url": "https://devpost.com/software/reroot-tkp0nu",
+    "slug": "reroot-tkp0nu",
+    "members": [
+      "imathtery"
+    ],
+    "tags": [
+      "swift",
+      "anthropicapi"
+    ],
+    "winner": false,
+    "like_count": 1,
+    "_query": "claude opus"
+  },
+  {
+    "name": "Pigeon Mail Client",
+    "tagline": "Are you tired of spam, endless searching, and clutter? Pigeon Mail Client ends these nuances with engaging tools like clearing clutter with swipes and reading mail in summaries",
+    "url": "https://devpost.com/software/pigeon-mailing-client",
+    "slug": "pigeon-mailing-client",
+    "members": [
+      "keelar-vou",
+      "andrei-pokotylo",
+      "bananabread747"
+    ],
+    "tags": [
+      "gmailapi",
+      "mongodb",
+      "react",
+      "tailwind",
+      "vercel",
+      "gemini",
+      "palantiraip"
+    ],
+    "winner": false,
+    "like_count": 0,
+    "_query": "claude opus"
+  },
+  {
+    "name": "Docket",
+    "tagline": "Every commit, Understood.",
+    "url": "https://devpost.com/software/docket-2r9wke",
+    "slug": "docket-2r9wke",
+    "members": [
+      "anirudhc5",
+      "yuvanadarshj"
+    ],
+    "tags": [
+      "typescript",
+      "next.js",
+      "vercel",
+      "supabase",
+      "auth0",
+      "gemini",
+      "terpai"
+    ],
+    "winner": false,
+    "like_count": 2,
+    "_query": "claude opus"
+  },
+  {
+    "name": "Clarify",
+    "tagline": "An AI-powered study assistant that transforms PDFs into personalized learning experiences. Upload a document, pick your mood, and Clarify generates flashcards, cramming sessions, or summaries.",
+    "url": "https://devpost.com/software/clarify-o5vcgn",
+    "slug": "clarify-o5vcgn",
+    "members": [
+      "samuelivx"
+    ],
+    "tags": [
+      "next.js",
+      "vercel",
+      "typescript",
+      "react",
+      "tailwindcss",
+      "claude",
+      "shadcn"
+    ],
+    "winner": true,
+    "like_count": 2,
+    "_query": "claude opus"
+  },
+  {
+    "name": "Scroll Jail",
+    "tagline": "An AI-powered system that breaks your scrolling trance and forces you back to focused work by blocking distractions, escalating consequences, and using context-aware nudges.",
+    "url": "https://devpost.com/software/scroll-jail",
+    "slug": "scroll-jail",
+    "members": [
+      "kaavinb",
+      "sh253"
+    ],
+    "tags": [
+      "google-calendar",
+      "python",
+      "flask",
+      "claude",
+      "haiku",
+      "opus"
+    ],
+    "winner": false,
+    "like_count": 0,
+    "_query": "claude opus"
+  },
+  {
+    "name": "DataForce",
+    "tagline": "Turn any pile of unstructured enterprise data into a live, queryable insight layer and a deployed predictive ML model — without a single line of code or a single data scientist.",
+    "url": "https://devpost.com/software/dataforce",
+    "slug": "dataforce",
+    "members": [
+      "thanhhuy062",
+      "thanhtamdo912005"
+    ],
+    "tags": [
+      "fastapi",
+      "claude",
+      "claudecode",
+      "react",
+      "python",
+      "async"
+    ],
+    "winner": false,
+    "like_count": 9,
+    "_query": "claude opus"
+  },
+  {
+    "name": "ReactionLabs",
+    "tagline": "Reaction Lab analyzes  ads form the competition, simulates responses from synthetic consumer personas, identifies market gaps, and generates differentiated ad concepts before you spend a cent. ",
+    "url": "https://devpost.com/software/reactionlabs",
+    "slug": "reactionlabs",
+    "members": [
+      "vmcru",
+      "yann-bonzom11",
+      "simohamed-benk",
+      "alexandrecourtis"
+    ],
+    "tags": [
+      "python",
+      "openai",
+      "fastapi",
+      "react",
+      "typescript",
+      "tailwind-css",
+      "gsap",
+      "postgresql",
+      "redis",
+      "anthropic-claude",
+      "vite",
+      "railway",
+      "docker"
+    ],
+    "winner": false,
+    "like_count": 0,
+    "_query": "claude opus"
+  },
+  {
+    "name": "HABIT@66",
+    "tagline": "BUILD A LIFE LASTING HABIT IN 66 DAYS. Our AI agent will accompany you and help you plan your habit development based on the 3 most successful habit management books ever published. ",
+    "url": "https://devpost.com/software/habit-66",
+    "slug": "habit-66",
+    "members": [
+      "phanessian01"
+    ],
+    "tags": [
+      "react",
+      "vite",
+      "npm",
+      "tsx",
+      "supabase"
+    ],
+    "winner": false,
+    "like_count": 0,
+    "_query": "claude opus"
+  },
+  {
+    "name": "Eczcalibur",
+    "tagline": "Zelda style eczema app for kids and parents",
+    "url": "https://devpost.com/software/eczcalibur",
+    "slug": "eczcalibur",
+    "members": [
+      "kelvinzigah"
+    ],
+    "tags": [
+      "react",
+      "native",
+      "expo.io",
+      "typescript",
+      "python",
+      "fastapi",
+      "supabase",
+      "postgresql",
+      "claude",
+      "api",
+      "clerk",
+      "fly.io",
+      "zustand",
+      "router",
+      "asyncstorage",
+      "open-meteo"
+    ],
+    "winner": true,
+    "like_count": 2,
+    "_query": "claude opus"
+  },
+  {
+    "name": "Civic Toronto",
+    "tagline": "Civic Toronto: Decode City Hall. Empower your community.",
+    "url": "https://devpost.com/software/civic-toronto",
+    "slug": "civic-toronto",
+    "members": null,
+    "tags": [
+      "react",
+      "ui)",
+      "next.js",
+      "framework)",
+      "tailwind-css",
+      "python",
+      "language)",
+      "fastapi",
+      "api",
+      "uvicorn",
+      "web",
+      "server)",
+      "anthropic-api",
+      "3",
+      "opus",
+      "for",
+      "summarization)",
+      "recharts",
+      "visualization)",
+      "react-leaflet",
+      "toronto-open-data"
+    ],
+    "winner": false,
+    "like_count": 0,
+    "_query": "claude opus"
+  },
+  {
+    "name": "InterviewArena",
+    "tagline": "Interview an agent employee with your agent interviewers!",
+    "url": "https://devpost.com/software/interviewarena",
+    "slug": "interviewarena",
+    "members": [
+      "j565xu",
+      "joezyf214"
+    ],
+    "tags": [
+      "next.js",
+      "react",
+      "typescript",
+      "node.js",
+      "claude-api-(anthropic)",
+      "tailwind-css",
+      "rest-api",
+      "json",
+      "claude"
+    ],
+    "winner": false,
+    "like_count": 4,
+    "_query": "claude opus"
+  },
+  {
+    "name": "Dad jokes in MongoDB shell",
+    "tagline": "Who needs data analysis when you can have memes?",
+    "url": "https://devpost.com/software/dad-jokes-in-mongodb-shell",
+    "slug": "dad-jokes-in-mongodb-shell",
+    "members": [
+      "andrewkhoma"
+    ],
+    "tags": [
+      "node.js",
+      "typescrit",
+      "javascript",
+      "copilot",
+      "azure"
+    ],
+    "winner": false,
+    "like_count": 0,
+    "_query": "claude opus"
+  }
+]

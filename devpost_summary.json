@@ -1,0 +1,673 @@
+{
+  "total_unique": 173,
+  "winner_count": 21,
+  "winners": [
+    {
+      "name": "Argus",
+      "tagline": "HA web servers run on N machines. Why don't agents? Argus is a dual-cognition SRE agent that investigates incidents autonomously, survives infrastructure chaos, and learns from every case it closes.",
+      "url": "https://devpost.com/software/argus-475hkv",
+      "slug": "argus-475hkv",
+      "members": [
+        "aditya1rawat"
+      ],
+      "tags": [
+        "next.js-16",
+        "react-19",
+        "hono",
+        "truefoundry-ai-gateway",
+        "crusoe-cloud-managed-inference",
+        "nemotron",
+        "neo4j",
+        "graphiti",
+        "fastapi",
+        "typescript",
+        "tailwind-css",
+        "python",
+        "claude",
+        "nvidia-nim",
+        "docker",
+        "sentence-transformers",
+        "mcp",
+        "digitalocean",
+        "caddy",
+        "digitalocean-droplet",
+        "vercel"
+      ],
+      "winner": true,
+      "like_count": 4,
+      "_query": "claude opus 4.6"
+    },
+    {
+      "name": "Statelens",
+      "tagline": "The model-agnostic observation compression layer for UI agents. Turns screenshot streams into compact state events — 40-50% cheaper, up to 100% accurate, drop-in via one baseURL.",
+      "url": "https://devpost.com/software/statelens",
+      "slug": "statelens",
+      "members": [
+        "rt-wang",
+        "zhizhongs"
+      ],
+      "tags": [
+        "typescript",
+        "node.js",
+        "claude",
+        "cursor",
+        "sharp",
+        "playwright"
+      ],
+      "winner": true,
+      "like_count": 2,
+      "_query": "claude opus 4.6"
+    },
+    {
+      "name": "Claro",
+      "tagline": "Clear Access to Resources and Opportunities",
+      "url": "https://devpost.com/software/claro-av7qjs",
+      "slug": "claro-av7qjs",
+      "members": [
+        "grs3wv"
+      ],
+      "tags": [
+        "claude"
+      ],
+      "winner": true,
+      "like_count": 7,
+      "_query": "claude opus 4.6"
+    },
+    {
+      "name": "Mean It.",
+      "tagline": "For the letter you can't quite write. Claude interviews you until your own words surface. Every line traced back to you.",
+      "url": "https://devpost.com/software/mean-it",
+      "slug": "mean-it",
+      "members": [
+        "dt444",
+        "pruthvivkadam",
+        "as4938"
+      ],
+      "tags": [
+        "typescript",
+        "claude",
+        "python",
+        "openai",
+        "mysql"
+      ],
+      "winner": true,
+      "like_count": 4,
+      "_query": "claude opus 4.6"
+    },
+    {
+      "name": "MultiEval",
+      "tagline": "The first agent-eval platform built for multi-agent orchestration. Graph + Gantt trace viewer, A/B compare with Wilson CIs, and a meta-agent that evolves harnesses against benchmarks.",
+      "url": "https://devpost.com/software/multival",
+      "slug": "multival",
+      "members": [
+        "alfred-sjoqvist",
+        "lamek-tsegay",
+        "stutig265",
+        "jjeswani"
+      ],
+      "tags": [
+        "devin",
+        "windsurf",
+        "fetch.ai",
+        "asi:one",
+        "agentverse",
+        "openhands",
+        "claude",
+        "gemini",
+        "inspect-ai",
+        "anthropic",
+        "mcp",
+        "react",
+        "typescript",
+        "vite",
+        "python",
+        "pytest"
+      ],
+      "winner": true,
+      "like_count": 3,
+      "_query": "claude opus 4.6"
+    },
+    {
+      "name": "amy",
+      "tagline": "Amy (amygdala) is the empathy layer that gives vision-language models human-centered data so people stop deciding with half the picture.",
+      "url": "https://devpost.com/software/feesh",
+      "slug": "feesh",
+      "members": [
+        "jacho15",
+        "goofybugga",
+        "junsooki",
+        "emilieduranxi"
+      ],
+      "tags": [
+        "vue",
+        "vite",
+        "three.js",
+        "fastapi",
+        "python",
+        "anthropic",
+        "k2-think",
+        "openrouter",
+        "qwen",
+        "meta-tribe",
+        "opencv",
+        "javascript",
+        "typescript"
+      ],
+      "winner": true,
+      "like_count": 4,
+      "_query": "claude opus 4.6"
+    },
+    {
+      "name": "Meridian",
+      "tagline": "Meridian is a shared clinical record with two authors — therapist and patient. Claude does the remembering so clinicians can be present, and patients co-author their own care in real time.",
+      "url": "https://devpost.com/software/meridian-tjxf9d",
+      "slug": "meridian-tjxf9d",
+      "members": [
+        "ygao2005",
+        "hhyiellie-a"
+      ],
+      "tags": [
+        "anthropic",
+        "claude",
+        "vercel",
+        "supabase",
+        "pgvector",
+        "whisper",
+        "openai",
+        "hume",
+        "deepgram"
+      ],
+      "winner": true,
+      "like_count": 1,
+      "_query": "claude opus 4.6"
+    },
+    {
+      "name": "Vero",
+      "tagline": "Multi-agent physical therapy, democratizing care with Claude",
+      "url": "https://devpost.com/software/vero-rwq85c",
+      "slug": "vero-rwq85c",
+      "members": [
+        "abhigyagoel",
+        "adrij2005",
+        "vedvedere",
+        "craviott"
+      ],
+      "tags": [
+        "supabase",
+        "claude",
+        "elevenlabs",
+        "mediapipe",
+        "techspelt",
+        "drizzle",
+        "typescript",
+        "claudevision"
+      ],
+      "winner": true,
+      "like_count": 2,
+      "_query": "claude opus 4.6"
+    },
+    {
+      "name": "Smart Nutrition Intelligence",
+      "tagline": "Snap your meal, know your nutrition, eat smarter.",
+      "url": "https://devpost.com/software/smart-nutrition-intelligence",
+      "slug": "smart-nutrition-intelligence",
+      "members": [
+        "jeid12",
+        "jadofils",
+        "gihozokundwapacis250",
+        "nicole0509"
+      ],
+      "tags": [
+        "flask",
+        "html5",
+        "css3",
+        "yolo8",
+        "ai",
+        "claude"
+      ],
+      "winner": true,
+      "like_count": 19,
+      "_query": "claude opus 4.6"
+    },
+    {
+      "name": "Penetra",
+      "tagline": "Intelligent autonomous pen-testing for modern applications.",
+      "url": "https://devpost.com/software/idk-0elrn6",
+      "slug": "idk-0elrn6",
+      "members": [
+        "rishigolla",
+        "sugoeric15",
+        "nhnguyen",
+        "addaian"
+      ],
+      "tags": [
+        "python",
+        "typescript",
+        "javascript"
+      ],
+      "winner": true,
+      "like_count": 23,
+      "_query": "claude opus 4.6"
+    },
+    {
+      "name": "CADence",
+      "tagline": "Cadence enables agent driven CAD workflows with strict compliance guardrails.",
+      "url": "https://devpost.com/software/cadence-tl2bzi",
+      "slug": "cadence-tl2bzi",
+      "members": [
+        "sayed-hayat05",
+        "rupertchin"
+      ],
+      "tags": [
+        "vite",
+        "react",
+        "three.js",
+        "mediapipe",
+        "typescript",
+        "whisper",
+        "claude",
+        "jscad",
+        "opendataloader"
+      ],
+      "winner": true,
+      "like_count": 2,
+      "_query": "claude opus 4.6"
+    },
+    {
+      "name": "EqualTales",
+      "tagline": "Children absorb stereotypes by age 6. EqualTales turns those stereotypes into bedtime stories featuring real women who broke barriers.",
+      "url": "https://devpost.com/software/equaltales",
+      "slug": "equaltales",
+      "members": [
+        "hafsa-usmani2"
+      ],
+      "tags": [
+        "react",
+        "flask",
+        "python",
+        "javascript",
+        "claude-opus-4.6",
+        "claude-sonnet-4.5",
+        "dall-e-3",
+        "openrouter",
+        "openai-api",
+        "fastmcp",
+        "goose",
+        "server-sent-events-(sse)",
+        "vercel",
+        "render",
+        "css3",
+        "html5"
+      ],
+      "winner": true,
+      "like_count": 5,
+      "_query": "claude opus 4.6"
+    },
+    {
+      "name": "FlipKit!",
+      "tagline": "Upload a photo of any item into cash by using an to determine its market value. With one tap, our voice calls buyers to negotiate the highest offer on your behalf, eliminating the friction of selling.",
+      "url": "https://devpost.com/software/flipkit",
+      "slug": "flipkit",
+      "members": [
+        "bjl229",
+        "ws535",
+        "sakshamcollege",
+        "toadityamittal"
+      ],
+      "tags": [
+        "claude",
+        "nvidia",
+        "nemotron",
+        "nvidia-nemotron",
+        "langgraph",
+        "elevenlabs",
+        "next.js",
+        "react",
+        "react-native",
+        "typescript",
+        "tailwind-css",
+        "python",
+        "python-package-index",
+        "fastapi",
+        "supabase",
+        "clerk",
+        "searchapi",
+        "vercel",
+        "render"
+      ],
+      "winner": true,
+      "like_count": 8,
+      "_query": "claude opus 4.6"
+    },
+    {
+      "name": "Baloney",
+      "tagline": "51% of web traffic is now bots. 74% of new web pages contain AI content. People can't tell what's real anymore, and there's no easy and non invasive way to check.",
+      "url": "https://devpost.com/software/baloney",
+      "slug": "baloney",
+      "members": [
+        "nategarelik",
+        "benverhaalen"
+      ],
+      "tags": [
+        "javascript",
+        "react",
+        "next",
+        "python"
+      ],
+      "winner": true,
+      "like_count": 2,
+      "_query": "claude opus 4.6"
+    },
+    {
+      "name": "HIVE: Swarm Intelligence.",
+      "tagline": "HIVE is your personal workforce that makes digital busywork obsolete. Launch a swarm of parallel, background computer use agents to solve any computer use task — specialized agents for GSuite and more",
+      "url": "https://devpost.com/software/hive-swarm-intelligence",
+      "slug": "hive-swarm-intelligence",
+      "members": [
+        "joe5050-li",
+        "bcostin"
+      ],
+      "tags": [
+        "browserbase",
+        "claude",
+        "modal",
+        "fetch.ai"
+      ],
+      "winner": true,
+      "like_count": 2,
+      "_query": "claude opus 4.6"
+    },
+    {
+      "name": "Sentinel",
+      "tagline": "Full-stack AI for bare-metal embedded systems. Proven by shipping a complete bare-metal OS on Raspberry Pi from scratch in 24 hours.",
+      "url": "https://devpost.com/software/sentinel-c8ki50",
+      "slug": "sentinel-c8ki50",
+      "members": [
+        "jamesc27",
+        "saik450",
+        "aaravwattal",
+        "andgiuri"
+      ],
+      "tags": [
+        "c",
+        "arm-assembly",
+        "python",
+        "typescript",
+        "claude-agent-sdk",
+        "claude-opus",
+        "fastapi",
+        "next.js",
+        "react",
+        "tailwind",
+        "uvicorn",
+        "gh",
+        "arm-none-eabi-gcc",
+        "rpi-zero-w"
+      ],
+      "winner": true,
+      "like_count": 4,
+      "_query": "claude opus 4.6"
+    },
+    {
+      "name": "HAVEN ",
+      "tagline": "FIND HOME ON THE ROAD.",
+      "url": "https://devpost.com/software/path-25fs8o",
+      "slug": "path-25fs8o",
+      "members": [
+        "cauthen-jack"
+      ],
+      "tags": [
+        "stack:-react-native-/-expo-sdk-52",
+        "supabase-(postgresql-+-realtime-+-storage-+-edge-functions)",
+        "revenuecat",
+        "nativewind",
+        "zustand"
+      ],
+      "winner": true,
+      "like_count": 2,
+      "_query": "claude opus 4.6"
+    },
+    {
+      "name": "Silkpay",
+      "tagline": "We allow african merchants to trade without borders.",
+      "url": "https://devpost.com/software/silkpay",
+      "slug": "silkpay",
+      "members": [
+        "kepler56"
+      ],
+      "tags": [
+        "solidity",
+        "supabase",
+        "nextjs",
+        "vercel",
+        "fastapi"
+      ],
+      "winner": true,
+      "like_count": 0,
+      "_query": "claude opus"
+    },
+    {
+      "name": "reAgent",
+      "tagline": "A visual IDE for designing and learning multi-agent AI swarms, backed by mechanistic interpretability research to optimize agent-2-agent protocol.",
+      "url": "https://devpost.com/software/reagent",
+      "slug": "reagent",
+      "members": [
+        "mehek-niwas",
+        "advikcollege1979",
+        "danielz0",
+        "ap2101"
+      ],
+      "tags": [
+        "python"
+      ],
+      "winner": true,
+      "like_count": 4,
+      "_query": "claude opus"
+    },
+    {
+      "name": "Clarify",
+      "tagline": "An AI-powered study assistant that transforms PDFs into personalized learning experiences. Upload a document, pick your mood, and Clarify generates flashcards, cramming sessions, or summaries.",
+      "url": "https://devpost.com/software/clarify-o5vcgn",
+      "slug": "clarify-o5vcgn",
+      "members": [
+        "samuelivx"
+      ],
+      "tags": [
+        "next.js",
+        "vercel",
+        "typescript",
+        "react",
+        "tailwindcss",
+        "claude",
+        "shadcn"
+      ],
+      "winner": true,
+      "like_count": 2,
+      "_query": "claude opus"
+    },
+    {
+      "name": "Eczcalibur",
+      "tagline": "Zelda style eczema app for kids and parents",
+      "url": "https://devpost.com/software/eczcalibur",
+      "slug": "eczcalibur",
+      "members": [
+        "kelvinzigah"
+      ],
+      "tags": [
+        "react",
+        "native",
+        "expo.io",
+        "typescript",
+        "python",
+        "fastapi",
+        "supabase",
+        "postgresql",
+        "claude",
+        "api",
+        "clerk",
+        "fly.io",
+        "zustand",
+        "router",
+        "asyncstorage",
+        "open-meteo"
+      ],
+      "winner": true,
+      "like_count": 2,
+      "_query": "claude opus"
+    }
+  ],
+  "by_query": [
+    {
+      "query": "claude opus 4.6",
+      "count": 120
+    },
+    {
+      "query": "claude opus",
+      "count": 53
+    }
+  ],
+  "top_liked": [
+    {
+      "name": "Second",
+      "like_count": 47,
+      "winner": false,
+      "url": "https://devpost.com/software/second-6s7ore"
+    },
+    {
+      "name": "Stratis - Supply Chain Intelligence ",
+      "like_count": 40,
+      "winner": false,
+      "url": "https://devpost.com/software/stratis-supply-chain-intelligence"
+    },
+    {
+      "name": "Qobi",
+      "like_count": 24,
+      "winner": false,
+      "url": "https://devpost.com/software/qobi-7o604h"
+    },
+    {
+      "name": "Penetra",
+      "like_count": 23,
+      "winner": true,
+      "url": "https://devpost.com/software/idk-0elrn6"
+    },
+    {
+      "name": "Smart Nutrition Intelligence",
+      "like_count": 19,
+      "winner": true,
+      "url": "https://devpost.com/software/smart-nutrition-intelligence"
+    },
+    {
+      "name": "GuardianAI",
+      "like_count": 15,
+      "winner": false,
+      "url": "https://devpost.com/software/guardianai-xgqy16"
+    },
+    {
+      "name": "FixPalAI",
+      "like_count": 10,
+      "winner": false,
+      "url": "https://devpost.com/software/fixpalai"
+    },
+    {
+      "name": "DataForce",
+      "like_count": 9,
+      "winner": false,
+      "url": "https://devpost.com/software/dataforce"
+    },
+    {
+      "name": "FlipKit!",
+      "like_count": 8,
+      "winner": true,
+      "url": "https://devpost.com/software/flipkit"
+    },
+    {
+      "name": "Claro",
+      "like_count": 7,
+      "winner": true,
+      "url": "https://devpost.com/software/claro-av7qjs"
+    }
+  ],
+  "all_tags": [
+    {
+      "tag": "python",
+      "count": 83
+    },
+    {
+      "tag": "typescript",
+      "count": 67
+    },
+    {
+      "tag": "react",
+      "count": 66
+    },
+    {
+      "tag": "claude",
+      "count": 63
+    },
+    {
+      "tag": "fastapi",
+      "count": 39
+    },
+    {
+      "tag": "next.js",
+      "count": 32
+    },
+    {
+      "tag": "javascript",
+      "count": 32
+    },
+    {
+      "tag": "vercel",
+      "count": 30
+    },
+    {
+      "tag": "vite",
+      "count": 26
+    },
+    {
+      "tag": "anthropic",
+      "count": 24
+    },
+    {
+      "tag": "node.js",
+      "count": 24
+    },
+    {
+      "tag": "supabase",
+      "count": 22
+    },
+    {
+      "tag": "tailwind",
+      "count": 21
+    },
+    {
+      "tag": "openai",
+      "count": 21
+    },
+    {
+      "tag": "tailwind-css",
+      "count": 19
+    },
+    {
+      "tag": "css",
+      "count": 18
+    },
+    {
+      "tag": "docker",
+      "count": 16
+    },
+    {
+      "tag": "html",
+      "count": 15
+    },
+    {
+      "tag": "gemini",
+      "count": 15
+    },
+    {
+      "tag": "elevenlabs",
+      "count": 11
+    }
+  ]
+}

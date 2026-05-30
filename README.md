@@ -1,53 +1,56 @@
-# Claude Opus 4.6 on GitHub
+# Opus 4.x on GitHub — Follow-up Census, May 2026
 
-A comprehensive census of open-source projects built with, powered by, or integrating Claude Opus 4.6 since its release on February 5, 2026.
+A follow-up to [@jphein's Opus census](https://github.com/jphein/opus) (March 2026), refreshed 4 months later and extended to cover **Opus 4.6, 4.7, and 4.8**.
 
-**Live site:** [jphein.github.io/opus](https://jphein.github.io/opus/)
+**Live site:** [jagainu.github.io/opus](https://jagainu.github.io/opus/)
+**Original census:** [jphein/opus](https://github.com/jphein/opus) by Jeffrey Hein (@jphein), March 2026
+
+---
+
+## What Changed from the Original
+
+| | Original (Mar 2026) | This follow-up (May 2026) |
+|---|---|---|
+| Models covered | Opus 4.6 only | **4.6 + 4.7 + 4.8** |
+| Repos tracked | 245 | **548** |
+| Combined stars | 1.4M | 7,441 (noise-filtered) |
+| Developers | 218 | **516** |
+| % New/Dormant | 29% | **42%** |
+| Hackathon projects | 500 builders | **173 projects, 21 winners** |
+| Dormancy detection | Manual user list | **GraphQL contributionsCollection (automated)** |
+| Devpost scraping | Manual | **Playwright + JSON XHR (automated)** |
 
 ## The Numbers
 
-- **245** public repositories tracked
-- **1.4M** combined stars
-- **24** programming languages
-- **218** unique developers
-- **500** hackathon builders (Cerebral Valley x Anthropic, Feb 2026)
-- **321** Devpost projects across 14 regional hackathons
+- **548** public repos tracked
+- **7,441** combined stars (noise-filtered; excludes namedrops like gpt4free)
+- **28** programming languages
+- **516** unique developers
+- **42%** new or previously dormant developers
+- **59** reawakened veterans (dormant 2021–2024, active 2026)
+- **173** Devpost hackathon projects, **21** winners
 
-## What's Inside
+## Detection Methodology
 
-The report is a single self-contained HTML file (`index.html`) with:
-
-1. **Flagship Projects** — From Anthropic's own Claude Code (80K stars) to community tools
-2. **The Numbers** — Animated charts: repos per week, language distribution, star tiers, categories
-3. **Who's Building** — Developer profiles, "re-energized veterans" (dormant accounts awakened by Opus 4.6)
-4. **The Hackathon** — Winners from the "Built with Opus 4.6" hackathon (13K applicants, 500 selected) + 14 regional Devpost events
-5. **Top Repos** — The 15 highest-starred projects with donut chart
-6. **Notable Projects** — Curated picks across categories
-7. **The Bigger Picture** — Opus 4.6 in GitHub Copilot, production integrations
-8. **Case Study** — @jphein, a 10-year dormant developer re-energized by Opus 4.6
-9. **Detection Methodology** — How we found them: 5 signal types across GitHub's APIs
-10. **Full Library** — Searchable, sortable, filterable table of all 245 repos
-
-## Detection Signals
-
-Projects were found through five methods:
+Same 5-signal approach as the original, now automated end-to-end:
 
 | Signal | Method |
 |--------|--------|
-| `explicit` | Repo name, description, or README mentions Opus 4.6 |
-| `commit` | `Co-Authored-By: Claude` in commit signatures |
-| `config` | CLAUDE.md, `.claude/settings.json`, or action.yml references |
-| `under` | Model catalogs, SDK configs, or CI workflows include `claude-opus-4-6` |
-| `hackathon` | Built at the Cerebral Valley x Anthropic hackathon (Feb 2026) |
+| `explicit` | Repo name/description mentions Opus 4.6, 4.7, or 4.8 |
+| `topic` | GitHub topic tags `claude-opus-4-6/4-7/4-8` |
+| LLM classification | keep/drop + category for all 621 raw candidates |
+| GraphQL dormancy | `contributionsCollection` per year per developer |
+| Devpost | Playwright + JSON XHR scraping for hackathon projects & winners |
+
+## Attribution
+
+Original census concept, detection methodology, and dashboard design by **Jeffrey Hein ([@jphein](https://github.com/jphein))**, March 2026.
+
+This follow-up was built by **[@jagainu](https://github.com/jagainu)** using Claude Code, extending the original with automated data pipelines, multi-model coverage (4.6/4.7/4.8), and updated data as of May 30, 2026.
 
 ## Tech
 
-- Zero dependencies — pure HTML/CSS/JS in a single file
-- All charts rendered via DOM (`createElement`) and inline SVG
-- Data computed dynamically from a single `libraryData` array
-- Scroll-reveal animations via `IntersectionObserver`
+- Zero dependencies — pure HTML/CSS/JS in a single `index.html`
+- All charts rendered via DOM + inline SVG
 - Dark editorial theme: JetBrains Mono + Instrument Serif
-
-## Built With
-
-This entire project — the research, the dashboard, and this README — was built using Claude Opus 4.6 via Claude Code.
+- Data pipeline: Python scripts (`fetch_census.py`, `analyze_veterans_auto.py`, `build_data.py`)
