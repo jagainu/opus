@@ -445,7 +445,7 @@
       <div style="font-size:9px;letter-spacing:3px;text-transform:uppercase;color:var(--accent-cyan);margin-bottom:12px;">Global Ecosystem · 14 Events · 2024-2026</div>
       <div style="font-family:var(--font-serif);font-size:22px;margin-bottom:12px;">Regional Claude Hackathons on Devpost</div>
       <div style="font-size:12px;color:var(--text-dim);line-height:1.8;max-width:700px;">
-        321 projects across 14 hackathons worldwide: London, Toronto, Cambridge, Maryland, USC, UW Seattle, Georgia Tech, Rice, UCSD, UF, SK AI Summit Korea, and more. From medical AI to financial modeling to educational tools.
+        173 projects tracked on Devpost referencing Claude Opus — 21 hackathon winners across multiple events. Tags: python, typescript, react, claude, fastapi, next.js and more.
       </div>
       <div class="hackathon-stats">
         <div>
@@ -730,18 +730,22 @@ function renderNotable() {
 
 function renderDevCards(containerId, devs, isDormant) {
   var g = document.getElementById(containerId);
+  if (!g) return;
   devs.forEach(function(d, i) {
-    var iconBg = isDormant ? 'var(--accent-rose)' : 'var(--accent-gold)';
     var iconText = isDormant ? '\u23F0' : '\u2728';
     var tagColor = isDormant ? 'var(--accent-rose)' : 'var(--accent-gold)';
-    var tagBg = isDormant ? 'rgba(255,82,119,0.15)' : 'rgba(255,215,64,0.15)';
-    var tagText = isDormant ? (d.age + ' on GitHub, ' + d.repos + ' repo' + (d.repos > 1 ? 's' : '') + ' total') : ('Joined ' + d.created + ', ' + d.repos + ' repo' + (d.repos > 1 ? 's' : ''));
-
-    var icon = el('div', { className: 'dev-icon', style: { background: isDormant ? 'rgba(255,82,119,0.15)' : 'rgba(255,215,64,0.15)' }, textContent: iconText });
-    var nameEl = el('div', { className: 'dev-name', textContent: '@' + d.name });
-    var descEl = el('div', { className: 'dev-detail', textContent: isDormant ? d.project + ' \u2014 ' + d.desc : d.desc });
-    var tag = el('div', { className: 'dev-tag', style: { color: tagColor, background: tagBg }, textContent: tagText });
-    var info = el('div', { className: 'dev-info' }, [nameEl, descEl, tag]);
+    var tagBg    = isDormant ? 'rgba(255,82,119,0.15)' : 'rgba(255,215,64,0.15)';
+    var handle   = d.login || d.name || '?';
+    var tagText  = isDormant
+      ? ('Acct ' + (d.created || d.age || '?') + ' \u00b7 ' + (d.contributions_2026 != null ? d.contributions_2026.toLocaleString() + ' contribs in 2026' : (d.repos || '') + ' repos'))
+      : ('Joined ' + (d.created || '?') + (d.repos ? ', ' + d.repos + ' repos' : ''));
+    var detail   = d.desc || '';
+    var icon     = el('div', { className: 'dev-icon', style: { background: isDormant ? 'rgba(255,82,119,0.15)' : 'rgba(255,215,64,0.15)' }, textContent: iconText });
+    var nameEl   = el('a',   { className: 'dev-name repo-link', href: 'https://github.com/' + handle, target: '_blank', textContent: '@' + handle });
+    var descEl   = detail ? el('div', { className: 'dev-detail', textContent: detail }) : null;
+    var tag      = el('div', { className: 'dev-tag', style: { color: tagColor, background: tagBg }, textContent: tagText });
+    var children = descEl ? [nameEl, descEl, tag] : [nameEl, tag];
+    var info     = el('div', { className: 'dev-info' }, children);
     g.appendChild(el('div', { className: 'dev-card reveal', style: { transitionDelay: (i * 0.06) + 's' } }, [icon, info]));
   });
 }
@@ -1410,18 +1414,15 @@ var categoryData = (function() {
 })();
 
 var SIGNAL_LABELS = {
-  explicit: 'Explicit',
-  config: 'Config',
-  commit: 'Co-Author',
-  under: 'Under Hood',
-  hackathon: 'Hackathon'
+  explicit: 'Explicit', explicit7: 'Explicit', explicit8: 'Explicit',
+  topic46: 'Topic', topic47: 'Topic', topic48: 'Topic',
+  config: 'Config', commit: 'Co-Author', under: 'Under Hood', hackathon: 'Hackathon'
 };
 var SIGNAL_CLASSES = {
-  explicit: 'signal-explicit',
-  config: 'signal-config',
-  commit: 'signal-commit',
-  under: 'signal-under',
-  hackathon: 'signal-hackathon'
+  explicit: 'signal-explicit', explicit7: 'signal-explicit', explicit8: 'signal-explicit',
+  topic46: 'signal-config', topic47: 'signal-config', topic48: 'signal-config',
+  config: 'signal-config', commit: 'signal-commit',
+  under: 'signal-under', hackathon: 'signal-hackathon'
 };
 
 var jpheinRepos = [
@@ -1467,21 +1468,20 @@ function renderJpheinGrid() {
 function renderHackathonWinners() {
   var c = document.getElementById('hackathon-winners');
   if (!c) return;
-  var winners = [
-    { place: '1st', name: 'CrossBeam', author: 'Mike Brown', desc: 'Speeds up California\'s permitting process \u2014 tools for code compliance and plan review', color: 'var(--accent-gold)' },
-    { place: '2nd', name: 'Elisa', author: 'Jon McBee', desc: 'Visual programming for kids \u2014 snap blocks together, Claude agents build real code', color: '#c0c0c0' },
-    { place: '3rd', name: 'postvisit.ai', author: 'Michal Nedoszytko', desc: 'Turns visit transcripts + medical records into personalized health guidance (built by a cardiologist)', color: '#cd7f32' },
-    { place: 'Creative', name: 'Conductr', author: 'Asep Bagja Priandana', desc: 'Play chords on a MIDI controller, Claude directs a four-track generative band (~15ms latency)', color: 'var(--accent-cyan)' },
-    { place: 'Special', name: 'TARA', author: 'Kyeyune Kazibwe', desc: 'Dashcam-to-economic-appraisal pipeline \u2014 turning road footage in Uganda into infrastructure investment recommendations', color: 'var(--accent-violet)' }
-  ];
-  var title = el('div', { style: { fontSize: '9px', letterSpacing: '3px', textTransform: 'uppercase', color: 'var(--accent-gold)', marginBottom: '16px', marginTop: '24px' }, textContent: 'Winners' });
+  var winners = [{"name": "Argus", "tagline": "HA web servers run on N machines. Why don't agents? Argus is a dual-cognition SRE agent that investigates incidents autonomously, survives infrastructure chaos, and learns from every case it closes.", "url": "https://devpost.com/software/argus-475hkv", "members": ["aditya1rawat"], "tags": ["next.js-16", "react-19", "hono", "truefoundry-ai-gateway", "crusoe-cloud-managed-inference"], "likes": 4}, {"name": "Statelens", "tagline": "The model-agnostic observation compression layer for UI agents. Turns screenshot streams into compact state events — 40-50% cheaper, up to 100% accurate, drop-in via one baseURL.", "url": "https://devpost.com/software/statelens", "members": ["rt-wang", "zhizhongs"], "tags": ["typescript", "node.js", "claude", "cursor", "sharp"], "likes": 2}, {"name": "Claro", "tagline": "Clear Access to Resources and Opportunities", "url": "https://devpost.com/software/claro-av7qjs", "members": ["grs3wv"], "tags": ["claude"], "likes": 7}, {"name": "Mean It.", "tagline": "For the letter you can't quite write. Claude interviews you until your own words surface. Every line traced back to you.", "url": "https://devpost.com/software/mean-it", "members": ["dt444", "pruthvivkadam", "as4938"], "tags": ["typescript", "claude", "python", "openai", "mysql"], "likes": 4}, {"name": "MultiEval", "tagline": "The first agent-eval platform built for multi-agent orchestration. Graph + Gantt trace viewer, A/B compare with Wilson CIs, and a meta-agent that evolves harnesses against benchmarks.", "url": "https://devpost.com/software/multival", "members": ["alfred-sjoqvist", "lamek-tsegay", "stutig265", "jjeswani"], "tags": ["devin", "windsurf", "fetch.ai", "asi:one", "agentverse"], "likes": 3}, {"name": "amy", "tagline": "Amy (amygdala) is the empathy layer that gives vision-language models human-centered data so people stop deciding with half the picture.", "url": "https://devpost.com/software/feesh", "members": ["jacho15", "goofybugga", "junsooki", "emilieduranxi"], "tags": ["vue", "vite", "three.js", "fastapi", "python"], "likes": 4}, {"name": "Meridian", "tagline": "Meridian is a shared clinical record with two authors — therapist and patient. Claude does the remembering so clinicians can be present, and patients co-author their own care in real time.", "url": "https://devpost.com/software/meridian-tjxf9d", "members": ["ygao2005", "hhyiellie-a"], "tags": ["anthropic", "claude", "vercel", "supabase", "pgvector"], "likes": 1}, {"name": "Vero", "tagline": "Multi-agent physical therapy, democratizing care with Claude", "url": "https://devpost.com/software/vero-rwq85c", "members": ["abhigyagoel", "adrij2005", "vedvedere", "craviott"], "tags": ["supabase", "claude", "elevenlabs", "mediapipe", "techspelt"], "likes": 2}, {"name": "Smart Nutrition Intelligence", "tagline": "Snap your meal, know your nutrition, eat smarter.", "url": "https://devpost.com/software/smart-nutrition-intelligence", "members": ["jeid12", "jadofils", "gihozokundwapacis250", "nicole0509"], "tags": ["flask", "html5", "css3", "yolo8", "ai"], "likes": 19}, {"name": "Penetra", "tagline": "Intelligent autonomous pen-testing for modern applications.", "url": "https://devpost.com/software/idk-0elrn6", "members": ["rishigolla", "sugoeric15", "nhnguyen", "addaian"], "tags": ["python", "typescript", "javascript"], "likes": 23}, {"name": "CADence", "tagline": "Cadence enables agent driven CAD workflows with strict compliance guardrails.", "url": "https://devpost.com/software/cadence-tl2bzi", "members": ["sayed-hayat05", "rupertchin"], "tags": ["vite", "react", "three.js", "mediapipe", "typescript"], "likes": 2}, {"name": "EqualTales", "tagline": "Children absorb stereotypes by age 6. EqualTales turns those stereotypes into bedtime stories featuring real women who broke barriers.", "url": "https://devpost.com/software/equaltales", "members": ["hafsa-usmani2"], "tags": ["react", "flask", "python", "javascript", "claude-opus-4.6"], "likes": 5}];
+  var title = el('div', { style: { fontSize: '9px', letterSpacing: '3px', textTransform: 'uppercase', color: 'var(--accent-gold)', marginBottom: '16px', marginTop: '24px' }, textContent: 'Hackathon Winners (Devpost)' });
   c.appendChild(title);
-  winners.forEach(function(w) {
-    var badge = el('span', { style: { display: 'inline-block', fontSize: '9px', letterSpacing: '2px', textTransform: 'uppercase', color: w.color, border: '1px solid ' + w.color, padding: '2px 8px', marginRight: '10px', fontFamily: 'var(--font-mono)' }, textContent: w.place });
-    var name = el('span', { style: { fontFamily: 'var(--font-serif)', fontSize: '16px', color: 'var(--text-main)' }, textContent: w.name });
-    var by = el('span', { style: { fontSize: '11px', color: 'var(--text-dim)', marginLeft: '8px' }, textContent: 'by ' + w.author });
-    var desc = el('div', { style: { fontSize: '11px', color: 'var(--text-dim)', lineHeight: '1.6', marginTop: '4px', paddingLeft: '0' }, textContent: w.desc });
-    var row = el('div', { style: { padding: '12px 0', borderBottom: '1px solid var(--border)' } }, [el('div', {}, [badge, name, by]), desc]);
+  winners.forEach(function(w, i) {
+    var colors = ['var(--accent-gold)','#c0c0c0','#cd7f32','var(--accent-cyan)','var(--accent-violet)','var(--accent-green)','var(--accent-orange)'];
+    var col = colors[i % colors.length];
+    var badge = el('span', { style: { display: 'inline-block', fontSize: '9px', letterSpacing: '2px', textTransform: 'uppercase', color: col, border: '1px solid ' + col, padding: '2px 8px', marginRight: '10px', fontFamily: 'var(--font-mono)' }, textContent: w.likes ? w.likes + ' \u2665' : 'Winner' });
+    var name = el('a', { href: w.url, target: '_blank', style: { fontFamily: 'var(--font-serif)', fontSize: '16px', color: 'var(--text-main)', textDecoration: 'none' }, textContent: w.name });
+    var tags = (w.tags || []).slice(0, 4).map(function(t) {
+      return el('span', { style: { fontSize: '9px', color: 'var(--text-dim)', border: '1px solid var(--border)', padding: '1px 6px', marginLeft: '4px', borderRadius: '2px' }, textContent: t });
+    });
+    var tagRow = el('div', { style: { marginTop: '4px' } }, tags);
+    var desc = el('div', { style: { fontSize: '11px', color: 'var(--text-dim)', lineHeight: '1.6', marginTop: '4px' }, textContent: w.tagline || '' });
+    var row = el('div', { style: { padding: '12px 0', borderBottom: '1px solid var(--border)' } }, [el('div', {}, [badge, name]), desc, tagRow]);
     c.appendChild(row);
   });
 }
@@ -1491,7 +1491,13 @@ function renderSignals() {
   var cards = document.getElementById('signal-cards');
 
   var signalCounts = { explicit: 0, under: 0, commit: 0, config: 0, hackathon: 0 };
-  libraryData.forEach(function(r) { signalCounts[r.signal]++; });
+  libraryData.forEach(function(r) {
+    var sig = r.signal;
+    // normalise new signal names into the 5 original buckets
+    if (sig === 'explicit7' || sig === 'explicit8') sig = 'explicit';
+    if (sig === 'topic46' || sig === 'topic47' || sig === 'topic48') sig = 'config';
+    if (signalCounts[sig] !== undefined) signalCounts[sig]++;
+  });
 
   var overviewData = [
     { icon: '\u{1F4E2}', count: signalCounts.explicit, label: 'Explicit', color: 'var(--accent-cyan)' },
@@ -1633,7 +1639,7 @@ function renderLibrary() {
 
   // Filter buttons
   var filters = ['All', 'Explicit', 'Under Hood', 'Hackathon', 'Config', 'Co-Author'];
-  var filterMap = { 'All': null, 'Explicit': 'explicit', 'Under Hood': 'under', 'Hackathon': 'hackathon', 'Config': 'config', 'Co-Author': 'commit' };
+  var filterMap = { 'All': null, 'Explicit': ['explicit','explicit7','explicit8'], 'Under Hood': 'under', 'Hackathon': 'hackathon', 'Config': ['config','topic46','topic47','topic48'], 'Co-Author': 'commit' };
   var activeFilter = null;
 
   filters.forEach(function(f) {
@@ -1697,7 +1703,7 @@ function renderLibrary() {
     if (r.lang) { langCell.appendChild(el('span', { className: 'lang-dot', style: { background: r.lc } })); langCell.appendChild(document.createTextNode(r.lang)); }
     else { langCell.textContent = '\u2014'; }
 
-    var catCell = el('div', { className: 'lib-cat', textContent: CAT_LABELS[r._cat] || r._cat });
+    var catCell = el('div', { className: 'lib-cat', textContent: CAT_LABELS[r.cat] || r.cat });
     var starsCell = el('div', { className: 'lib-stars', textContent: r.stars > 0 ? r.stars.toLocaleString() + ' \u2605' : '\u2014' });
     var signalCell = el('div', { className: 'lib-signal' }, [el('span', { className: 'signal-tag ' + SIGNAL_CLASSES[r.signal], textContent: SIGNAL_LABELS[r.signal] })]);
 
@@ -1711,7 +1717,7 @@ function renderLibrary() {
     if (col === 'stars') return r.stars;
     if (col === 'name') return r.name.toLowerCase();
     if (col === 'lang') return (r.lang || 'zzz').toLowerCase();
-    if (col === 'cat') return (r._cat || 'zzz').toLowerCase();
+    if (col === 'cat') return (r.cat || 'zzz').toLowerCase();
     if (col === 'signal') return r.signal;
     return '';
   }
@@ -1732,8 +1738,8 @@ function renderLibrary() {
     var visible = 0;
     rows.forEach(function(row) {
       var d = row._data;
-      var matchesFilter = !activeFilter || d.signal === activeFilter;
-      var matchesSearch = !q || (d.name + ' ' + d.desc + ' ' + (d.lang || '') + ' ' + (CAT_LABELS[d._cat] || '')).toLowerCase().indexOf(q) !== -1;
+      var matchesFilter = !activeFilter || (Array.isArray(activeFilter) ? activeFilter.indexOf(d.signal) !== -1 : d.signal === activeFilter);
+      var matchesSearch = !q || (d.name + ' ' + d.desc + ' ' + (d.lang || '') + ' ' + (CAT_LABELS[d.cat] || '')).toLowerCase().indexOf(q) !== -1;
       if (matchesFilter && matchesSearch) {
         row.classList.remove('lib-hidden');
         visible++;
@@ -1766,7 +1772,6 @@ document.addEventListener('DOMContentLoaded', function() {
   renderDevCards('dormant-grid', dormantDevs, true);
   renderDevCards('newdev-grid', newDevs, false);
   renderCopilotContext();
-  renderJpheinGrid();
   renderHackathonWinners();
   renderSignals();
   renderLibrary();
